@@ -1,0 +1,158 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:DEP-{YYYY}-{#####}",
+ "creation": "2025-08-09 00:50:43.981318",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "deployment_title",
+  "incident_report",
+  "eoc_activation",
+  "resource_request",
+  "programme_activity",
+  "project",
+  "start_date",
+  "end_date",
+  "status",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "notes",
+  "attachments",
+  "team",
+  "assets"
+ ],
+ "fields": [
+  {
+   "fieldname": "deployment_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Deployment Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "label": "Incident Report",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "eoc_activation",
+   "fieldtype": "Link",
+   "label": "EOC Activation",
+   "options": "EOC Activation"
+  },
+  {
+   "fieldname": "resource_request",
+   "fieldtype": "Link",
+   "label": "Resource Request",
+   "options": "Resource Request"
+  },
+  {
+   "fieldname": "programme_activity",
+   "fieldtype": "Link",
+   "label": "Programme Activity",
+   "options": "Programme Activity"
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "label": "Project",
+   "options": "Project"
+  },
+  {
+   "fieldname": "start_date",
+   "fieldtype": "Date",
+   "label": "Start Date"
+  },
+  {
+   "fieldname": "end_date",
+   "fieldtype": "Date",
+   "label": "End Date"
+  },
+  {
+   "default": "Planned",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Planned\nOngoing\nCompleted\nCancelled"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  },
+  {
+   "fieldname": "attachments",
+   "fieldtype": "Attach",
+   "label": "Attachments"
+  },
+  {
+   "fieldname": "team",
+   "fieldtype": "Table",
+   "label": "Deployment Team",
+   "options": "Deployment Team Line"
+  },
+  {
+   "fieldname": "assets",
+   "fieldtype": "Table",
+   "label": "Assets / Fleet",
+   "options": "Deployment Asset Line"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-09 00:50:43.981318",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Deployment",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "deployment_title"
+}

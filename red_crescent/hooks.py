@@ -4,6 +4,51 @@ app_publisher = "YRCS"
 app_description = "Yemen Red Crescent Society Management System"
 app_email = "alsabri-majed@yemenredcrescent.org"
 app_license = "mit"
+app_include_js = "/assets/red_crescent/js/volunteer_map.js"
+
+fixtures = [
+    {"doctype": "DocType", "filters": [["module", "=", "Yemen Red Crescent Society"]]},
+    {"doctype": "Custom Field"},
+    {"doctype": "Property Setter"},
+    #{"doctype": "Custom Script"},
+]
+fixtures = [
+    {
+        "dt": "DocType",
+        "filters": [["name", "in", [
+            "Programme Plan",
+            "Programme Activity",
+            "Programme KPI",
+            "Progress Report"
+        ]]]
+    }
+]
+fixtures = [
+    "program_data",
+    "objective_data",
+    "indicator_data",
+    "activity_data",
+    "monitoring_log_data",
+    "evaluation_data",
+    "field_visit_log_data",
+    "report_submission_data"
+]
+
+fixtures = [
+    
+    # Custom Field لحقل حالة الـ Workflow
+    {"doctype": "Custom Field", "filters": [["dt", "=", "CCCM Site"], ["fieldname", "=", "workflow_state"]]},
+    # الـ Workflow وتعريفاته
+    {"doctype": "Workflow", "filters": [["document_type", "=", "CCCM Site"]]},
+    {"doctype": "Workflow State", "filters": [["workflow_state_name", "in", ["Draft","Active","Monitoring","Closed"]]]},
+    {"doctype": "Workflow Action Master", "filters": [["workflow_action_name", "in", ["Activate","Start Monitoring","Close","Reopen"]]]},
+    # (اختياري) Module Def إن أنشأته من الواجهة
+    {"doctype": "Module Def", "filters": [["name", "=", "Yemen Red Crescent Society"]]}]
+fixtures = ["Page"]
+def get_context(context):
+    # for a specific Web Page with Python controller
+    context.mapbox_token = frappe.conf.mapbox_token
+boot_session = "red_crescent.api.boot_session"
 
 # Apps
 # ------------------
@@ -20,9 +65,25 @@ app_license = "mit"
 # 		"has_permission": "red_crescent.api.permission.has_app_permission"
 # 	}
 # ]
+doc_events = {
+    "YRCS Volunteers": {
+        "after_save": "red_crescent.api.set_home_address_from_first_location"
+    }
+}
+doc_events = {
+    "Indicator": {"validate": "red_crescent.pmer_logic.calculate_progress"}
+}
+after_migrate = ["red_crescent.sample_data.load"]
 
 # Includes in <head>
 # ------------------
+app_include_js = [
+  "https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"
+]
+app_include_css = [
+  "https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css"
+]
+app_include_js = "/assets/red_crescent/js/vehicle_summary_map.js"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/red_crescent/css/red_crescent.css"
@@ -41,7 +102,8 @@ app_license = "mit"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
-
+page_js = {
+    "volunteer-map": "public/js/volunteer_map.js"}
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
@@ -55,6 +117,10 @@ app_license = "mit"
 
 # Home Pages
 # ----------
+#after_install = "red_crescent.red_crescent.sample_data.after_install"
+#after_migrate = "red_crescent.red_crescent.sample_data.after_migrate"
+# or if you used load():
+# after_migrate = "red_crescent.red_crescent.sample_data.load"
 
 # application home page (will override Website Settings)
 # home_page = "login"

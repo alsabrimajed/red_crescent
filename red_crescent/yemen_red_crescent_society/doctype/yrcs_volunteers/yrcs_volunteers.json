@@ -1,0 +1,337 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format: {firstname}  {last_name}",
+ "creation": "2025-08-08 21:31:07.310109",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "volunteer_data_section",
+  "volunteer_photo",
+  "volunteer_image_preview",
+  "firstname",
+  "middle_name",
+  "last_name",
+  "year_of_birth",
+  "sex",
+  "marital_status",
+  "nationality",
+  "normal_job",
+  "company",
+  "affiliations",
+  "comments",
+  "volunteer_record",
+  "volunteer_record_section",
+  "ns_branch",
+  "volunteer_rol",
+  "start_date",
+  "end_date",
+  "status",
+  "comment",
+  "id",
+  "identity_section",
+  "identities",
+  "description",
+  "blood_type",
+  "medical_conditions",
+  "other_details",
+  "adress",
+  "address_section",
+  "volunteer_address",
+  "contacts",
+  "contacts_section",
+  "email",
+  "contacts_records",
+  "cv",
+  "awards",
+  "award_record",
+  "section_break_urij",
+  "education_record",
+  "training",
+  "training_recs",
+  "vol_certificates",
+  "certificate_records",
+  "assets",
+  "roles_tab"
+ ],
+ "fields": [
+  {
+   "fieldname": "volunteer_data_section",
+   "fieldtype": "Section Break",
+   "label": "Volunteer Data"
+  },
+  {
+   "fieldname": "volunteer_photo",
+   "fieldtype": "Attach Image",
+   "label": "Volunteer Photo"
+  },
+  {
+   "fieldname": "volunteer_image_preview",
+   "fieldtype": "HTML",
+   "label": "Volunteer Image Preview"
+  },
+  {
+   "fieldname": "firstname",
+   "fieldtype": "Data",
+   "label": "First Name"
+  },
+  {
+   "fieldname": "middle_name",
+   "fieldtype": "Data",
+   "label": "Middle Name"
+  },
+  {
+   "fieldname": "last_name",
+   "fieldtype": "Data",
+   "label": "Last Name"
+  },
+  {
+   "fieldname": "year_of_birth",
+   "fieldtype": "Date",
+   "label": "Year of Birth"
+  },
+  {
+   "default": "Male",
+   "fieldname": "sex",
+   "fieldtype": "Select",
+   "label": "Sex",
+   "options": "Male\nFemale"
+  },
+  {
+   "fieldname": "marital_status",
+   "fieldtype": "Select",
+   "label": "Marital Status",
+   "options": "unknown\nsingle\nmarried\nseparated\ndivorced\nwidowed\ncohabiting\nother"
+  },
+  {
+   "fieldname": "nationality",
+   "fieldtype": "Select",
+   "label": "Nationality",
+   "options": "Afghan\nAlgerian\nAmerican\nArgentine\nAustralian\nAustrian\nBahraini\nBangladeshi\nBelgian\nBolivian\nBosnian\nBrazilian\nBritish\nBulgarian\nBurmese\nCameroonian\nCanadian\nChilean\nChinese\nColombian\nCongolese\nCosta Rican\nCroatian\nCuban\nCypriot\nCzech\nDanish\nDominican\nDutch\nEcuadorian\nEgyptian\nEmirati\nEnglish\nEritrean\nEstonian\nEthiopian\nFilipino\nFinnish\nFrench\nGerman\nGhanaian\nGreek\nGuatemalan\nHaitian\nHonduran\nHungarian\nIcelandic\nIndian\nIndonesian\nIranian\nIraqi\nIrish\nItalian\nIvorian\nJamaican\nJapanese\nJordanian\nKazakh\nKenyan\nKorean\nKuwaiti\nLatvian\nLebanese\nLibyan\nLithuanian\nLuxembourgish\nMalaysian\nMalian\nMaltese\nMauritanian\nMexican\nMoroccan\nNamibian\nNepalese\nNew Zealander\nNicaraguan\nNigerian\nNorwegian\nOmani\nPakistani\nPalestinian\nPanamanian\nParaguayan\nPeruvian\nPolish\nPortuguese\nQatari\nRomanian\nRussian\nRwandan\nSalvadoran\nSaudi\nScottish\nSenegalese\nSerbian\nSingaporean\nSlovak\nSlovenian\nSomali\nSouth African\nSouth Sudanese\nSpanish\nSri Lankan\nSudanese\nSwedish\nSwiss\nSyrian\nTanzanian\nThai\nTunisian\nTurkish\nUgandan\nUkrainian\nUruguayan\nUzbek\nVenezuelan\nVietnamese\nWelsh\nYemeni\nZambian\nZimbabwean"
+  },
+  {
+   "fieldname": "normal_job",
+   "fieldtype": "Data",
+   "label": "Normal Job"
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Data",
+   "label": "Company"
+  },
+  {
+   "fieldname": "affiliations",
+   "fieldtype": "Data",
+   "label": "Affiliations"
+  },
+  {
+   "fieldname": "comments",
+   "fieldtype": "Small Text",
+   "label": "Comments"
+  },
+  {
+   "fieldname": "volunteer_record",
+   "fieldtype": "Tab Break",
+   "label": "Volunteer Record"
+  },
+  {
+   "fieldname": "volunteer_record_section",
+   "fieldtype": "Section Break",
+   "label": "Volunteer Record"
+  },
+  {
+   "fieldname": "ns_branch",
+   "fieldtype": "Link",
+   "label": "National Society / Branch:",
+   "options": "NS Branch"
+  },
+  {
+   "fieldname": "volunteer_rol",
+   "fieldtype": "Link",
+   "label": "Volunteer Role:",
+   "options": "Volunteer Role"
+  },
+  {
+   "fieldname": "start_date",
+   "fieldtype": "Date",
+   "label": "Start Date"
+  },
+  {
+   "fieldname": "end_date",
+   "fieldtype": "Date",
+   "label": "End Date"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Active\nResigned\nTerminated\nDied"
+  },
+  {
+   "fieldname": "comment",
+   "fieldtype": "Small Text",
+   "label": "Comments"
+  },
+  {
+   "fieldname": "id",
+   "fieldtype": "Tab Break",
+   "label": "ID"
+  },
+  {
+   "fieldname": "identity_section",
+   "fieldtype": "Section Break",
+   "label": "Identity"
+  },
+  {
+   "fieldname": "identities",
+   "fieldtype": "Table",
+   "label": "Identities",
+   "options": "Identity"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Tab Break",
+   "label": "Description"
+  },
+  {
+   "fieldname": "blood_type",
+   "fieldtype": "Select",
+   "label": "Blood Type ",
+   "options": "A+\nA-\nB+\nB-\nAB+\nAB-\nO+\nO-\nA\nB\nAB\nO"
+  },
+  {
+   "fieldname": "medical_conditions",
+   "fieldtype": "Small Text",
+   "label": "Medical Conditions"
+  },
+  {
+   "fieldname": "other_details",
+   "fieldtype": "Small Text",
+   "label": "Other Details"
+  },
+  {
+   "fieldname": "adress",
+   "fieldtype": "Tab Break",
+   "label": "Address"
+  },
+  {
+   "fieldname": "address_section",
+   "fieldtype": "Section Break",
+   "label": "Address"
+  },
+  {
+   "fieldname": "volunteer_address",
+   "fieldtype": "Table",
+   "label": "Volunteer Address",
+   "options": "Volunteer Address"
+  },
+  {
+   "fieldname": "contacts",
+   "fieldtype": "Tab Break",
+   "label": "Contacts"
+  },
+  {
+   "fieldname": "contacts_section",
+   "fieldtype": "Section Break",
+   "label": "Contacts"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "contacts_records",
+   "fieldtype": "Table",
+   "label": "Contacts",
+   "options": "Volunteer Contacts"
+  },
+  {
+   "fieldname": "cv",
+   "fieldtype": "Tab Break",
+   "label": "CV"
+  },
+  {
+   "fieldname": "awards",
+   "fieldtype": "Section Break",
+   "label": "Awards"
+  },
+  {
+   "fieldname": "award_record",
+   "fieldtype": "Table",
+   "label": "Awards",
+   "options": "Volunteer Awards"
+  },
+  {
+   "fieldname": "section_break_urij",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "education_record",
+   "fieldtype": "Table",
+   "label": "Education Certificates",
+   "options": "Volunteer Education Certificate"
+  },
+  {
+   "fieldname": "training",
+   "fieldtype": "Section Break",
+   "label": "Trainings"
+  },
+  {
+   "fieldname": "training_recs",
+   "fieldtype": "Table",
+   "label": "Training",
+   "options": "Volunteer Trainings"
+  },
+  {
+   "fieldname": "vol_certificates",
+   "fieldtype": "Section Break",
+   "label": "Certificates"
+  },
+  {
+   "fieldname": "certificate_records",
+   "fieldtype": "Table",
+   "label": "Cerificate",
+   "options": "Vounteer Certificates"
+  },
+  {
+   "fieldname": "assets",
+   "fieldtype": "Tab Break",
+   "label": "Assets"
+  },
+  {
+   "fieldname": "roles_tab",
+   "fieldtype": "Tab Break",
+   "label": "Roles"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:07.463514",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "YRCS Volunteers",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

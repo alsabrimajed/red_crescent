@@ -1,0 +1,66 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 00:11:48.808617",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "contribution_title",
+  "programme_plan",
+  "contribution_date",
+  "amount",
+  "currency_code",
+  "notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "contribution_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Contribution Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "programme_plan",
+   "fieldtype": "Link",
+   "label": "Programme Plan",
+   "options": "Programme Plan"
+  },
+  {
+   "fieldname": "contribution_date",
+   "fieldtype": "Date",
+   "label": "Contribution Date"
+  },
+  {
+   "fieldname": "amount",
+   "fieldtype": "Currency",
+   "label": "Amount"
+  },
+  {
+   "fieldname": "currency_code",
+   "fieldtype": "Data",
+   "label": "Currency"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 00:11:48.808617",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Donor Contribution",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

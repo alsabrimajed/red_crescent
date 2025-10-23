@@ -1,0 +1,74 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 19:41:27.061979",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "assigned_to_team",
+  "assigned_to_user",
+  "task",
+  "priority",
+  "due_by",
+  "status",
+  "remarks"
+ ],
+ "fields": [
+  {
+   "fieldname": "assigned_to_team",
+   "fieldtype": "Link",
+   "label": "Assigned Team",
+   "options": "Teams"
+  },
+  {
+   "fieldname": "assigned_to_user",
+   "fieldtype": "Link",
+   "label": "Assigned User",
+   "options": "User"
+  },
+  {
+   "fieldname": "task",
+   "fieldtype": "Data",
+   "label": "Task / Mission"
+  },
+  {
+   "fieldname": "priority",
+   "fieldtype": "Select",
+   "label": "Priority",
+   "options": "Low\nMedium\nHigh\nCritical"
+  },
+  {
+   "fieldname": "due_by",
+   "fieldtype": "Datetime",
+   "label": "Due By"
+  },
+  {
+   "default": "Assigned",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Assigned\nEn Route\nOn Site\nDone\nCancelled"
+  },
+  {
+   "fieldname": "remarks",
+   "fieldtype": "Small Text",
+   "label": "Remarks"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 19:41:27.061979",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "EOC Dispatch Assignment",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

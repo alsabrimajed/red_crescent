@@ -1,0 +1,157 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:RDS-{YYYY}-{#####}",
+ "creation": "2025-08-10 13:54:57.385771",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "dispatch_title",
+  "incident_report",
+  "resource_request",
+  "programme_activity",
+  "project",
+  "donor",
+  "dispatch_date",
+  "purpose",
+  "destination_site",
+  "destination_text",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "from_warehouse",
+  "attachments",
+  "dispatch_items"
+ ],
+ "fields": [
+  {
+   "fieldname": "dispatch_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Dispatch Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "label": "Incident Report",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "resource_request",
+   "fieldtype": "Link",
+   "label": "Resource Request",
+   "options": "Resource Request"
+  },
+  {
+   "fieldname": "programme_activity",
+   "fieldtype": "Link",
+   "label": "Programme Activity",
+   "options": "Programme Activity"
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "label": "Project",
+   "options": "Project"
+  },
+  {
+   "fieldname": "donor",
+   "fieldtype": "Link",
+   "label": "Donor",
+   "options": "Donors"
+  },
+  {
+   "fieldname": "dispatch_date",
+   "fieldtype": "Date",
+   "label": "Dispatch Date"
+  },
+  {
+   "fieldname": "purpose",
+   "fieldtype": "Small Text",
+   "label": "Purpose"
+  },
+  {
+   "fieldname": "destination_site",
+   "fieldtype": "Link",
+   "label": "Destination Site",
+   "options": "CCCM Site"
+  },
+  {
+   "fieldname": "destination_text",
+   "fieldtype": "Data",
+   "label": "Destination (Text)"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "from_warehouse",
+   "fieldtype": "Link",
+   "label": "From Warehouse",
+   "options": "Warehouse"
+  },
+  {
+   "fieldname": "attachments",
+   "fieldtype": "Attach",
+   "label": "Attachments"
+  },
+  {
+   "fieldname": "dispatch_items",
+   "fieldtype": "Table",
+   "label": "Dispatch Items",
+   "options": "Relief Dispatch Item"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-10 13:54:57.385771",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Relief Dispatch",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "dispatch_title"
+}

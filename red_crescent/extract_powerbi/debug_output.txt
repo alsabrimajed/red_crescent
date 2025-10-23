@@ -1,0 +1,4902 @@
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+Microsoft Power BI
+Report Zoomed To 25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+Microsoft Power BI
+Report Zoomed To 25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+Microsoft Power BI
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+Microsoft Power BI
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+Microsoft Power BI
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+Microsoft Power BI
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+Governorate
+All
+Site Name
+All
+Site ID
+All
+Partner
+All
+District
+All
+Hub
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+ASSESSED SITES
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+HOME PAGE
+Governorate
+All
+Governorate
+All
+Governorate
+All
+Governorate
+All
+Governorate
+All
+Governorate
+All
+Governorate
+Governorate
+Governorate
+Governorate
+Governorate
+All
+All
+All
+All
+All
+All
+Site Name
+All
+Site Name
+All
+Site Name
+All
+Site Name
+All
+Site Name
+All
+Site Name
+All
+Site Name
+Site Name
+Site Name
+Site Name
+Site Name
+All
+All
+All
+All
+All
+All
+Site ID
+All
+Site ID
+All
+Site ID
+All
+Site ID
+All
+Site ID
+All
+Site ID
+All
+Site ID
+Site ID
+Site ID
+Site ID
+Site ID
+All
+All
+All
+All
+All
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+All
+Partner
+Partner
+Partner
+Partner
+Partner
+All
+All
+All
+All
+All
+All
+District
+All
+District
+All
+District
+All
+District
+All
+District
+All
+District
+All
+District
+District
+District
+District
+District
+All
+All
+All
+All
+All
+All
+Hub
+All
+Hub
+All
+Hub
+All
+Hub
+All
+Hub
+All
+Hub
+All
+Hub
+Hub
+Hub
+Hub
+Hub
+All
+All
+All
+All
+All
+All
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+The rollout of the new Site Monitoring Tool for managed IDP sites officially started in IRG-controlled areas in January 2023. with support from CCCM partners and REACH, these the main service availability and  needs findings for the (Round 3) data collection conducted on May 2023.
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IDPs by PARTNER
+IDPs by PARTNER
+IDPs by PARTNER
+IDPs by PARTNER
+IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NMO
+AOBWC
+GWQ
+IOM
+IOM
+ACTED
+ACTED
+NRC
+NRC
+DRC
+DRC
+SHS
+SHS
+BCFHD
+BCFHD
+FMF
+FMF
+NMO
+NMO
+AOBWC
+AOBWC
+GWQ
+GWQ
+186.0K
+68.4K
+37.1K
+29.1K
+29.0K
+27.4K
+10.0K
+4.1K
+2.3K
+1.9K
+186.0K
+186.0K
+186.0K
+68.4K
+68.4K
+68.4K
+37.1K
+37.1K
+37.1K
+29.1K
+29.1K
+29.1K
+29.0K
+29.0K
+29.0K
+27.4K
+27.4K
+27.4K
+10.0K
+10.0K
+10.0K
+4.1K
+4.1K
+4.1K
+2.3K
+2.3K
+2.3K
+1.9K
+1.9K
+1.9K
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+SITES by PARTNER
+SITES by PARTNER
+SITES by PARTNER
+SITES by PARTNER
+SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+NMO
+GWQ
+AOBWC
+ACTED
+ACTED
+IOM
+IOM
+DRC
+DRC
+NRC
+NRC
+BCFHD
+BCFHD
+SHS
+SHS
+FMF
+FMF
+NMO
+NMO
+GWQ
+GWQ
+AOBWC
+AOBWC
+95
+64
+34
+26
+13
+13
+12
+4
+3
+2
+95
+95
+95
+64
+64
+64
+34
+34
+34
+26
+26
+26
+13
+13
+13
+13
+13
+13
+12
+12
+12
+4
+4
+4
+3
+3
+3
+2
+2
+2
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED IDPs
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+ASSESSED IDPs
+395K
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+SITES PER HUB
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+CCCM HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+IDPs IN HOSTING SITES
+COVERED SITES
+306
+COVERED SITES
+306
+COVERED SITES
+306
+COVERED SITES
+306
+COVERED SITES
+306
+COVERED SITES
+306
+COVERED SITES
+COVERED SITES
+COVERED SITES
+COVERED SITES
+COVERED SITES
+306
+306
+306
+306
+306
+306
+COVERED IDPs
+441K
+COVERED IDPs
+441K
+COVERED IDPs
+441K
+COVERED IDPs
+441K
+COVERED IDPs
+441K
+COVERED IDPs
+441K
+COVERED IDPs
+COVERED IDPs
+COVERED IDPs
+COVERED IDPs
+COVERED IDPs
+441K
+441K
+441K
+441K
+441K
+441K
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+185
+81
+Aden_Hub
+Marib_Hub
+Aden_Hub
+Marib_Hub
+Aden_Hub
+Aden_Hub
+Marib_Hub
+Marib_Hub
+185
+81
+185
+185
+185
+81
+81
+81
+ASSESSED IDPs
+395K
+ASSESSED IDPs
+395K
+ASSESSED IDPs
+395K
+ASSESSED IDPs
+395K
+ASSESSED IDPs
+395K
+ASSESSED IDPs
+395K
+ASSESSED IDPs
+ASSESSED IDPs
+ASSESSED IDPs
+ASSESSED IDPs
+ASSESSED IDPs
+395K
+395K
+395K
+395K
+395K
+395K
+ASSESSED SITES
+266
+ASSESSED SITES
+266
+ASSESSED SITES
+266
+ASSESSED SITES
+266
+ASSESSED SITES
+266
+ASSESSED SITES
+266
+ASSESSED SITES
+ASSESSED SITES
+ASSESSED SITES
+ASSESSED SITES
+ASSESSED SITES
+266
+266
+266
+266
+266
+266
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+NEEDS PER SECTOR
+NEEDS PER SECTOR
+NEEDS PER SECTOR
+NEEDS PER SECTOR
+NEEDS PER SECTOR
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Cash distributions(multi purpose)
+Education services
+Food distributions
+Healthcare services
+Livelihoods services
+Non food item distributions (NFI)
+Nutrition services
+Protection services
+RRM distributions
+Scurity/Safety/DRR
+Shelter maintenance services
+Site maintenance
+Wash services
+Waste disposal services
+Needs Severity Score
+Needs Severity Score
+Needs Severity Score
+Cash distributions(multi purpose)
+Cash distributions(multi purpose)
+Cash distributions(multi purpose)
+Education services
+Education services
+Education services
+Food distributions
+Food distributions
+Food distributions
+Healthcare services
+Healthcare services
+Healthcare services
+Livelihoods services
+Livelihoods services
+Livelihoods services
+Non food item distributions (NFI)
+Non food item distributions (NFI)
+Non food item distributions (NFI)
+Nutrition services
+Nutrition services
+Nutrition services
+Protection services
+Protection services
+Protection services
+RRM distributions
+RRM distributions
+RRM distributions
+Scurity/Safety/DRR
+Scurity/Safety/DRR
+Scurity/Safety/DRR
+Shelter maintenance services
+Shelter maintenance services
+Shelter maintenance services
+Site maintenance
+Site maintenance
+Site maintenance
+Wash services
+Wash services
+Wash services
+Waste disposal services
+Waste disposal services
+Waste disposal services
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+Terms
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+© 2025 TomTom, © 2025 Microsoft Corporation, © OpenStreetMap
+© 2025 TomTom, © 2025 Microsoft Corporation,
+© OpenStreetMap
+Terms
+Terms
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+1.EXTREME NEED
+1.EXTREME NEED
+2.HIGH NEED
+2.HIGH NEED
+3.MEDIUM NEED
+3.MEDIUM NEED
+4.LOW NEED
+4.LOW NEED
+5.None/Light NEED
+5.None/Light NEED
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+Reported Sites with HHs in need
+Reported Sites with HHs in need
+Reported Sites with HHs in need
+Reported Sites with HHs in need
+Reported Sites with HHs in need
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEED
+5.None/Light NEED
+1.EXTREME NEED
+1.EXTREME NEED
+2.HIGH NEED
+2.HIGH NEED
+3.MEDIUM NEED
+3.MEDIUM NEED
+4.LOW NEED
+4.LOW NEED
+5.None/Light NEED
+5.None/Light NEED
+68
+136
+55
+6
+1
+68
+68
+68
+136
+136
+136
+55
+55
+55
+6
+6
+6
+1
+1
+1
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+       Data Source : Yemen CCCM Partners Reporting          CCCM YEMEN CLUSTER PAGE           For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org         For Technical INFO : ALOGAILI@unhcr.org
+Data Source : Yemen CCCM Partners Reporting  
+CCCM YEMEN CLUSTER
+ PAGE
+  For More INFO : MATHIEU@unhcr.org/ALHASHEW@unhcr.org 
+ For Technical INFO : ALOGAILI@unhcr.org
+-
++
+25%
+-
++
+25%
+-
++
+25%
+-
++
+25%
+-
++
+25%
+-
++
+25%
+-
++
+-
++
+25%
+Microsoft Power BI
+Microsoft Power BI
+Microsoft Power BI
+Microsoft Power BI
+Microsoft Power BI
+Microsoft Power BI
+Microsoft Power BI
+Report Zoomed To 25%

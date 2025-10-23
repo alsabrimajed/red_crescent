@@ -1,0 +1,53 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 00:50:43.453604",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "team_type",
+  "count",
+  "skills",
+  "shift"
+ ],
+ "fields": [
+  {
+   "fieldname": "team_type",
+   "fieldtype": "Select",
+   "label": "Team Type",
+   "options": "Assessment\nMedical\nRelief\nWASH\nLogistics\nSecurity\nOther"
+  },
+  {
+   "fieldname": "count",
+   "fieldtype": "Int",
+   "label": "Count"
+  },
+  {
+   "fieldname": "skills",
+   "fieldtype": "Small Text",
+   "label": "Skills / Notes"
+  },
+  {
+   "fieldname": "shift",
+   "fieldtype": "Select",
+   "label": "Shift",
+   "options": "Day\nNight\n24/7"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 00:50:43.453604",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Requested Team",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

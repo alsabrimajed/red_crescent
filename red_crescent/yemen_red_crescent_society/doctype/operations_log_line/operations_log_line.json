@@ -1,0 +1,110 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 19:41:46.867350",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "log_time",
+  "category",
+  "summary",
+  "ref_eoc_case",
+  "ref_incident",
+  "ref_deployment_log",
+  "details",
+  "taken_by",
+  "assigned_to",
+  "follow_up_due",
+  "status",
+  "attachment"
+ ],
+ "fields": [
+  {
+   "fieldname": "log_time",
+   "fieldtype": "Datetime",
+   "in_list_view": 1,
+   "label": "Time",
+   "reqd": 1
+  },
+  {
+   "default": "Update",
+   "fieldname": "category",
+   "fieldtype": "Select",
+   "label": "Category",
+   "options": "Decision\nUpdate\nCoordination\nSecurity\nCommunications\nLogistics\nMedical\nWASH\nShelter\nOther"
+  },
+  {
+   "fieldname": "summary",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Summary",
+   "reqd": 1
+  },
+  {
+   "fieldname": "ref_eoc_case",
+   "fieldtype": "Link",
+   "label": "Ref EOC Case",
+   "options": "EOC Case"
+  },
+  {
+   "fieldname": "ref_incident",
+   "fieldtype": "Link",
+   "label": "Ref Incident",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "ref_deployment_log",
+   "fieldtype": "Link",
+   "label": "Ref Deployment Log",
+   "options": "Emergency Deployment Log"
+  },
+  {
+   "fieldname": "details",
+   "fieldtype": "Small Text",
+   "label": "Details / Notes"
+  },
+  {
+   "fieldname": "taken_by",
+   "fieldtype": "Data",
+   "label": "Taken By"
+  },
+  {
+   "fieldname": "assigned_to",
+   "fieldtype": "Data",
+   "label": "Assigned To"
+  },
+  {
+   "fieldname": "follow_up_due",
+   "fieldtype": "Datetime",
+   "label": "Follow-up Due"
+  },
+  {
+   "default": "Open",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Open\nIn Progress\nDone\nCancelled"
+  },
+  {
+   "fieldname": "attachment",
+   "fieldtype": "Attach",
+   "label": "Attachment"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 19:41:46.867350",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Operations Log Line",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

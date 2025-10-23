@@ -1,0 +1,52 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-08 21:31:08.169168",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "awards",
+  "award",
+  "award_date",
+  "award_desc"
+ ],
+ "fields": [
+  {
+   "fieldname": "awards",
+   "fieldtype": "Section Break",
+   "label": "Awards"
+  },
+  {
+   "fieldname": "award",
+   "fieldtype": "Link",
+   "label": "Award",
+   "options": "Awards"
+  },
+  {
+   "fieldname": "award_date",
+   "fieldtype": "Date",
+   "label": "Award Date"
+  },
+  {
+   "fieldname": "award_desc",
+   "fieldtype": "Small Text",
+   "label": "Comment"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:08.288426",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Volunteer Awards",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,37 @@
+{
+  "doctype": "DocType",
+  "name": "Report Submission",
+  "module": "Yemen Red Crescent Society",
+  "custom": 1,
+  "fields": [
+    {
+      "fieldname": "report_title",
+      "fieldtype": "Data",
+      "label": "Report Title",
+      "reqd": 1
+    },
+    {
+      "fieldname": "program",
+      "fieldtype": "Link",
+      "label": "Program",
+      "options": "Program",
+      "reqd": 1
+    },
+    {
+      "fieldname": "submission_date",
+      "fieldtype": "Date",
+      "label": "Submission Date"
+    },
+    {
+      "fieldname": "narrative",
+      "fieldtype": "Text Editor",
+      "label": "Narrative"
+    },
+    {
+      "fieldname": "submitted_by",
+      "fieldtype": "Data",
+      "label": "Submitted By"
+    }
+  ],
+  "editable_grid": 0
+}

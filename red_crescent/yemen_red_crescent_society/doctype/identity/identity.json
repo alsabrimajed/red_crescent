@@ -1,0 +1,76 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-08 21:31:08.785851",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "id_type",
+  "id_desc",
+  "id_data",
+  "valid_from",
+  "valid_until",
+  "issuing_authority",
+  "scanned_copy",
+  "id_comment"
+ ],
+ "fields": [
+  {
+   "fieldname": "id_type",
+   "fieldtype": "Select",
+   "label": "ID Type",
+   "options": "Other\nPassport\nNational ID\nFamily ID\nSchool ID\nDriving License"
+  },
+  {
+   "fieldname": "id_desc",
+   "fieldtype": "Data",
+   "label": "Description"
+  },
+  {
+   "fieldname": "id_data",
+   "fieldtype": "Data",
+   "label": "Number"
+  },
+  {
+   "fieldname": "valid_from",
+   "fieldtype": "Date",
+   "label": "Valid From"
+  },
+  {
+   "fieldname": "valid_until",
+   "fieldtype": "Date",
+   "label": "Valid Until"
+  },
+  {
+   "fieldname": "issuing_authority",
+   "fieldtype": "Data",
+   "label": "Issuing Authority"
+  },
+  {
+   "fieldname": "scanned_copy",
+   "fieldtype": "Attach",
+   "label": "Scanned Copy"
+  },
+  {
+   "fieldname": "id_comment",
+   "fieldtype": "Small Text",
+   "label": "Comments"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:08.932630",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Identity",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

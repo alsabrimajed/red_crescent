@@ -1,0 +1,27 @@
+{
+  "doctype": "DocType",
+  "name": "Monitoring Log",
+  "module": "Yemen Red Crescent Society",
+  "custom": 1,
+  "fields": [
+    {
+      "fieldname": "log_date",
+      "fieldtype": "Date",
+      "label": "Log Date",
+      "reqd": 1
+    },
+    {
+      "fieldname": "activity",
+      "fieldtype": "Link",
+      "label": "Activity",
+      "options": "Activity",
+      "reqd": 1
+    },
+    {
+      "fieldname": "progress",
+      "fieldtype": "Text",
+      "label": "Progress"
+    }
+  ],
+  "editable_grid": 0
+}

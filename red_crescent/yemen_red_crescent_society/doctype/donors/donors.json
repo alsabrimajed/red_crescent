@@ -1,0 +1,134 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:donor_name",
+ "creation": "2025-08-09 00:11:48.928422",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "donor_name",
+  "partner",
+  "donor_type",
+  "active",
+  "contact_person",
+  "email",
+  "phone",
+  "address",
+  "funding_focus",
+  "preferred_currency",
+  "website",
+  "notes",
+  "attachments",
+  "contributions"
+ ],
+ "fields": [
+  {
+   "fieldname": "donor_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Donor Name",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "partner",
+   "fieldtype": "Link",
+   "label": "Partner (if applicable)",
+   "options": "Partners"
+  },
+  {
+   "fieldname": "donor_type",
+   "fieldtype": "Select",
+   "label": "Donor Type",
+   "options": "Government\nNGO\nUN Agency\nPrivate Sector\nFoundation\nIndividual\nOther"
+  },
+  {
+   "default": "1",
+   "fieldname": "active",
+   "fieldtype": "Check",
+   "label": "Active"
+  },
+  {
+   "fieldname": "contact_person",
+   "fieldtype": "Data",
+   "label": "Contact Person"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email",
+   "options": "Email"
+  },
+  {
+   "fieldname": "phone",
+   "fieldtype": "Data",
+   "label": "Phone"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Small Text",
+   "label": "Address"
+  },
+  {
+   "fieldname": "funding_focus",
+   "fieldtype": "Small Text",
+   "label": "Funding Focus / Areas"
+  },
+  {
+   "fieldname": "preferred_currency",
+   "fieldtype": "Data",
+   "label": "Preferred Currency"
+  },
+  {
+   "fieldname": "website",
+   "fieldtype": "Data",
+   "label": "Website",
+   "options": "URL"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  },
+  {
+   "fieldname": "attachments",
+   "fieldtype": "Attach",
+   "label": "Attachments"
+  },
+  {
+   "fieldname": "contributions",
+   "fieldtype": "Table",
+   "label": "Contributions",
+   "options": "Donor Contribution"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-09 00:11:48.928422",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Donors",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "donor_name"
+}

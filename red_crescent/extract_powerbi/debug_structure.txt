@@ -1,0 +1,181 @@
+===== Iframes Found =====
+
+===== Div Containers with 'role' attribute =====
+[0] role=application | text=CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+H
+[1] role=region | text=CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+H
+[2] role=img | text=
+[3] role=img | text=
+[4] role=group | text=CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+[5] role=document | text=CCCM YEMEN - SITE MONITORING TOOL - GAPS & NEEDS
+[6] role=link | text=HOME PAGE
+[7] role=group | text=Governorate
+All
+[8] role=combobox | text=All
+[9] role=group | text=Site Name
+All
+[10] role=combobox | text=All
+[11] role=group | text=Site ID
+All
+[12] role=combobox | text=All
+[13] role=group | text=Partner
+All
+[14] role=group | text=Partner
+All
+[15] role=combobox | text=All
+[16] role=group | text=District
+All
+[17] role=combobox | text=All
+[18] role=group | text=Hub
+All
+[19] role=combobox | text=All
+[20] role=group | text=The rollout of the new Site Monitoring Tool for ma
+[21] role=document | text=The rollout of the new Site Monitoring Tool for ma
+[22] role=group | text=IDPs by PARTNER
+IOM
+ACTED
+NRC
+DRC
+SHS
+BCFHD
+FMF
+NM
+[23] role=group | text=SITES by PARTNER
+ACTED
+IOM
+DRC
+NRC
+BCFHD
+SHS
+FMF
+N
+[24] role=group | text=SITES PER HUB
+CCCM HOSTING SITES
+IDPs IN HOSTING S
+[25] role=group | text=SITES PER HUB
+[26] role=group | text=SITES PER HUB
+[27] role=document | text=SITES PER HUB
+[28] role=group | text=CCCM HOSTING SITES
+[29] role=group | text=CCCM HOSTING SITES
+[30] role=document | text=CCCM HOSTING SITES
+[31] role=group | text=IDPs IN HOSTING SITES
+[32] role=group | text=IDPs IN HOSTING SITES
+[33] role=document | text=IDPs IN HOSTING SITES
+[34] role=img | text=
+[35] role=img | text=
+[36] role=group | text=COVERED SITES
+306
+[37] role=group | text=COVERED IDPs
+441K
+[38] role=group | text=Aden_Hub
+Marib_Hub
+185
+81
+[39] role=img | text=
+[40] role=img | text=
+[41] role=group | text=ASSESSED IDPs
+395K
+[42] role=group | text=ASSESSED SITES
+266
+[43] role=img | text=
+[44] role=img | text=
+[45] role=group | text=NEEDS PER SECTOR
+Needs Severity Score
+Cash distrib
+[46] role=listbox | text=Needs Severity Score
+Cash distributions(multi purp
+[47] role=none | text=Needs Severity Score
+Cash distributions(multi purp
+[48] role=none | text=Needs Severity Score
+Cash distributions(multi purp
+[49] role=none | text=Needs Severity Score
+Cash distributions(multi purp
+[50] role=none | text=Needs Severity Score
+Cash distributions(multi purp
+[51] role=none | text=Needs Severity Score
+[52] role=option | text=Needs Severity Score
+[53] role=none | text=Cash distributions(multi purpose)
+[54] role=option | text=Cash distributions(multi purpose)
+[55] role=none | text=Education services
+[56] role=option | text=Education services
+[57] role=none | text=Food distributions
+[58] role=option | text=Food distributions
+[59] role=none | text=Healthcare services
+[60] role=option | text=Healthcare services
+[61] role=none | text=Livelihoods services
+[62] role=option | text=Livelihoods services
+[63] role=none | text=Non food item distributions (NFI)
+[64] role=option | text=Non food item distributions (NFI)
+[65] role=none | text=Nutrition services
+[66] role=option | text=Nutrition services
+[67] role=none | text=Protection services
+[68] role=option | text=Protection services
+[69] role=none | text=RRM distributions
+[70] role=option | text=RRM distributions
+[71] role=none | text=Scurity/Safety/DRR
+[72] role=option | text=Scurity/Safety/DRR
+[73] role=none | text=Shelter maintenance services
+[74] role=option | text=Shelter maintenance services
+[75] role=none | text=Site maintenance
+[76] role=option | text=Site maintenance
+[77] role=none | text=Wash services
+[78] role=option | text=Wash services
+[79] role=none | text=Waste disposal services
+[80] role=option | text=Waste disposal services
+[81] role=group | text=1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEE
+[82] role=button | text=
+[83] role=listbox | text=
+[84] role=option | text=
+[85] role=option | text=
+[86] role=option | text=
+[87] role=checkbox | text=
+[88] role=region | text=1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEE
+[89] role=listbox | text=1.EXTREME NEED
+2.HIGH NEED
+3.MEDIUM NEED
+4.LOW NEE
+[90] role=option | text=1.EXTREME NEED
+[91] role=option | text=2.HIGH NEED
+[92] role=option | text=3.MEDIUM NEED
+[93] role=option | text=4.LOW NEED
+[94] role=option | text=5.None/Light NEED
+[95] role=group | text=Reported Sites with HHs in need
+1.EXTREME NEED
+2.H
+[96] role=group | text=Reported Sites with HHs in need
+1.EXTREME NEED
+2.H
+[97] role=group | text=Data Source : Yemen CCCM Partners Reporting       
+[98] role=document | text=Data Source : Yemen CCCM Partners Reporting       
+[99] role=alert | text=Report Zoomed To 25%
+[100] role=none | text=
+[101] role=none | text=
+[102] role=none | text=
+[103] role=none | text=
+[104] role=none | text=
+[105] role=none | text=
+[106] role=none | text=
+[107] role=none | text=
+[108] role=none | text=
+[109] role=none | text=
+[110] role=none | text=
+[111] role=none | text=
+[112] role=none | text=
+[113] role=none | text=
+[114] role=none | text=
+[115] role=none | text=
+[116] role=none | text=
+[117] role=none | text=
+[118] role=none | text=
+[119] role=none | text=
+[120] role=none | text=
+[121] role=none | text=
+[122] role=none | text=
+[123] role=none | text=

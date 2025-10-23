@@ -1,0 +1,136 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-08 21:31:07.961560",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_y2hx",
+  "level_of_award",
+  "other_level",
+  "name_of_award",
+  "name_of_institute",
+  "amended_from",
+  "year",
+  "major",
+  "grade",
+  "education_comment",
+  "amended_from",
+  "amended_from",
+  "amended_from",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_y2hx",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "level_of_award",
+   "fieldtype": "Select",
+   "label": "Level of Award",
+   "options": "Master\nPhD\nDiploma\nBachelor\nCertificate\nAssociate"
+  },
+  {
+   "fieldname": "other_level",
+   "fieldtype": "Data",
+   "label": "Other Level"
+  },
+  {
+   "fieldname": "name_of_award",
+   "fieldtype": "Data",
+   "label": "Name of Award"
+  },
+  {
+   "fieldname": "name_of_institute",
+   "fieldtype": "Data",
+   "label": "Name of Institute"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Volunteer Education Certificate",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "year",
+   "fieldtype": "Date",
+   "label": "Year"
+  },
+  {
+   "fieldname": "major",
+   "fieldtype": "Data",
+   "label": "Major"
+  },
+  {
+   "fieldname": "grade",
+   "fieldtype": "Float",
+   "label": "Grade"
+  },
+  {
+   "fieldname": "education_comment",
+   "fieldtype": "Small Text",
+   "label": "Comment"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Volunteer Education Certificate",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Volunteer Education Certificate",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Volunteer Education Certificate",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Volunteer Education Certificate",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:08.141291",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Volunteer Education Certificate",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "doctype": "Field_visit_log",
+		"visit_date": "2025-04-10",
+        "location": "Al Hudaydah",
+        "team_members": "Nurse Aisha, Coordinator Omar",
+        "program": "Maternal Health Outreach",
+        "activity": "Train community midwives",
+        "observations": "Community support strong, facilities minimal.",
+        "attachments": ""
+    }
+]

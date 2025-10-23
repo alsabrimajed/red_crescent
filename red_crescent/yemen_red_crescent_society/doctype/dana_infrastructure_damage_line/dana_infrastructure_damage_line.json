@@ -1,0 +1,54 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 19:39:59.244904",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "asset_type",
+  "count_damaged",
+  "count_destroyed",
+  "notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "asset_type",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Asset Type",
+   "options": "Road\nBridge\nSchool\nHealth Facility\nWater Network\nElectricity\nShelter\nMarket\nOther",
+   "reqd": 1
+  },
+  {
+   "fieldname": "count_damaged",
+   "fieldtype": "Int",
+   "label": "Count (Damaged)"
+  },
+  {
+   "fieldname": "count_destroyed",
+   "fieldtype": "Int",
+   "label": "Count (Destroyed)"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 19:39:59.244904",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "DANA Infrastructure Damage Line",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

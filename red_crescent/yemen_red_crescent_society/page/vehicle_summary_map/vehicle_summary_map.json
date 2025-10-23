@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2025-08-19 20:29:41.377700",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2025-08-20 00:06:07.660280",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "vehicle-summary-map",
+ "owner": "Administrator",
+ "page_name": "vehicle-summary-map",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "vehicle-summary-map"
+}

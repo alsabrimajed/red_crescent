@@ -1,0 +1,73 @@
+{
+  "actions": [],
+  "allow_rename": 1,
+  "creation": "2025-08-10 13:28:05.006649",
+  "custom": 0,
+  "doctype": "DocType",
+  "editable_grid": 1,
+  "engine": "InnoDB",
+  "field_order": [
+    "snapshot_date",
+    "households",
+    "individuals",
+    "female_percent",
+    "children_percent",
+    "pwd_percent",
+    "notes"
+  ],
+  "fields": [
+    {
+      "fieldname": "snapshot_date",
+      "fieldtype": "Date",
+      "in_list_view": 1,
+      "label": "Snapshot Date",
+      "reqd": 1
+    },
+    {
+      "fieldname": "households",
+      "fieldtype": "Int",
+      "in_list_view": 1,
+      "label": "Households"
+    },
+    {
+      "fieldname": "individuals",
+      "fieldtype": "Int",
+      "in_list_view": 1,
+      "label": "Individuals"
+    },
+    {
+      "fieldname": "female_percent",
+      "fieldtype": "Percent",
+      "label": "Female %"
+    },
+    {
+      "fieldname": "children_percent",
+      "fieldtype": "Percent",
+      "label": "Children %"
+    },
+    {
+      "fieldname": "pwd_percent",
+      "fieldtype": "Percent",
+      "label": "PwD %"
+    },
+    {
+      "fieldname": "notes",
+      "fieldtype": "Small Text",
+      "label": "Notes"
+    }
+  ],
+  "grid_page_length": 50,
+  "index_web_pages_for_search": 1,
+  "istable": 1,
+  "links": [],
+  "modified": "2025-08-10 13:53:01.394099",
+  "modified_by": "Administrator",
+  "module": "Yemen Red Crescent Society",
+  "name": "CCCM Population Snapshot",
+  "owner": "Administrator",
+  "permissions": [],
+  "row_format": "Dynamic",
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": []
+}

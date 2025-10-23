@@ -1,0 +1,66 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 19:40:17.697471",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "date",
+  "sector",
+  "description",
+  "location_text",
+  "households_reached",
+  "individuals_reached"
+ ],
+ "fields": [
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "label": "Date"
+  },
+  {
+   "fieldname": "sector",
+   "fieldtype": "Select",
+   "label": "Sector",
+   "options": "Shelter\nWASH\nHealth\nNutrition\nProtection\nEducation\nFood Security\nLivelihoods\nLogistics\nOther"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Activity Description",
+   "reqd": 1
+  },
+  {
+   "fieldname": "location_text",
+   "fieldtype": "Data",
+   "label": "Location (Text)"
+  },
+  {
+   "fieldname": "households_reached",
+   "fieldtype": "Int",
+   "label": "HH Reached"
+  },
+  {
+   "fieldname": "individuals_reached",
+   "fieldtype": "Int",
+   "label": "Individuals Reached"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 19:40:17.697471",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "SitRep Activity Line",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

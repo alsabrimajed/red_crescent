@@ -1,0 +1,70 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format:{course_name}",
+ "creation": "2025-08-08 21:31:07.649759",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "course_code",
+  "course_name",
+  "ns_society",
+  "sectors"
+ ],
+ "fields": [
+  {
+   "fieldname": "course_code",
+   "fieldtype": "Data",
+   "label": "Code"
+  },
+  {
+   "fieldname": "course_name",
+   "fieldtype": "Data",
+   "label": "Name"
+  },
+  {
+   "fieldname": "ns_society",
+   "fieldtype": "Link",
+   "label": "National Society:",
+   "options": "National Society"
+  },
+  {
+   "fieldname": "sectors",
+   "fieldtype": "Select",
+   "label": "Sectors",
+   "options": "Disaster Risk Reduction\nEmergency Shelter\nEmergency Telecommunications\nFood Security\nHealth\nLivelihoods\nOrganizational Development\nProtection\nWater and Sanitation"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:07.765011",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Course Catalogue",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "search_fields": "course_name",
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "course_name"
+}

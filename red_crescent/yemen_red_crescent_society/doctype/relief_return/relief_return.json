@@ -1,0 +1,157 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:RET-{YYYY}-{#####}",
+ "creation": "2025-08-10 13:54:57.696895",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "return_title",
+  "incident_report",
+  "resource_request",
+  "programme_activity",
+  "project",
+  "donor",
+  "return_date",
+  "reason",
+  "origin_site",
+  "origin_text",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "to_warehouse",
+  "attachments",
+  "return_items"
+ ],
+ "fields": [
+  {
+   "fieldname": "return_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Return Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "label": "Incident Report",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "resource_request",
+   "fieldtype": "Link",
+   "label": "Resource Request",
+   "options": "Resource Request"
+  },
+  {
+   "fieldname": "programme_activity",
+   "fieldtype": "Link",
+   "label": "Programme Activity",
+   "options": "Programme Activity"
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "label": "Project",
+   "options": "Project"
+  },
+  {
+   "fieldname": "donor",
+   "fieldtype": "Link",
+   "label": "Donor",
+   "options": "Donors"
+  },
+  {
+   "fieldname": "return_date",
+   "fieldtype": "Date",
+   "label": "Return Date"
+  },
+  {
+   "fieldname": "reason",
+   "fieldtype": "Small Text",
+   "label": "Reason"
+  },
+  {
+   "fieldname": "origin_site",
+   "fieldtype": "Link",
+   "label": "Origin Site",
+   "options": "CCCM Site"
+  },
+  {
+   "fieldname": "origin_text",
+   "fieldtype": "Data",
+   "label": "Origin (Text)"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "to_warehouse",
+   "fieldtype": "Link",
+   "label": "To Warehouse",
+   "options": "Warehouse"
+  },
+  {
+   "fieldname": "attachments",
+   "fieldtype": "Attach",
+   "label": "Attachments"
+  },
+  {
+   "fieldname": "return_items",
+   "fieldtype": "Table",
+   "label": "Return Items",
+   "options": "Relief Return Item"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-10 13:54:57.696895",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Relief Return",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "return_title"
+}

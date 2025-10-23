@@ -1,0 +1,52 @@
+{
+  "doctype": "DocType",
+  "name": "Evaluation",
+  "module": "Yemen Red Crescent Society",
+  "custom": 1,
+  "fields": [
+    {
+      "fieldname": "evaluation_title",
+      "fieldtype": "Data",
+      "label": "Evaluation Title",
+      "reqd": 1
+    },
+    {
+      "fieldname": "program",
+      "fieldtype": "Link",
+      "label": "Program",
+      "options": "Program",
+      "reqd": 1
+    },
+    {
+      "fieldname": "evaluation_date",
+      "fieldtype": "Date",
+      "label": "Evaluation Date"
+    },
+    {
+      "fieldname": "evaluator",
+      "fieldtype": "Data",
+      "label": "Evaluator"
+    },
+    {
+      "fieldname": "summary",
+      "fieldtype": "Text Editor",
+      "label": "Summary"
+    },
+    {
+      "fieldname": "findings",
+      "fieldtype": "Text Editor",
+      "label": "Findings"
+    },
+    {
+      "fieldname": "lessons_learned",
+      "fieldtype": "Text Editor",
+      "label": "Lessons Learned"
+    },
+    {
+      "fieldname": "recommendations",
+      "fieldtype": "Text Editor",
+      "label": "Recommendations"
+    }
+  ],
+  "editable_grid": 0
+}

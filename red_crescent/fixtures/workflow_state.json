@@ -1,0 +1,6 @@
+[
+  { "doctype": "Workflow State", "name": "Draft",            "workflow_state_name": "Draft",            "doc_status": 0, "allow_edit": "Administrator" },
+  { "doctype": "Workflow State", "name": "Pending Approval", "workflow_state_name": "Pending Approval", "doc_status": 0, "allow_edit": "Administrator" },
+  { "doctype": "Workflow State", "name": "Approved",         "workflow_state_name": "Approved",         "doc_status": 1, "allow_edit": "Administrator" },
+  { "doctype": "Workflow State", "name": "Rejected",         "workflow_state_name": "Rejected",         "doc_status": 0, "allow_edit": "Administrator" }
+]

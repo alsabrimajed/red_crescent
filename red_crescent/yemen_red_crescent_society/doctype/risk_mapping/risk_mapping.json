@@ -1,0 +1,227 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:RISK-{YYYY}-{#####}",
+ "creation": "2025-08-10 09:58:30.324077",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "title",
+  "eoc_case",
+  "incident_report",
+  "dana_assessment",
+  "programme_activity",
+  "project",
+  "donor",
+  "hazard_type",
+  "likelihood",
+  "impact",
+  "risk_score",
+  "risk_level",
+  "status",
+  "reported_on",
+  "review_due",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "latitude",
+  "longitude",
+  "map_image",
+  "description",
+  "vulnerable_groups",
+  "hazard_zones",
+  "mitigations"
+ ],
+ "fields": [
+  {
+   "fieldname": "title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Risk Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "eoc_case",
+   "fieldtype": "Link",
+   "label": "EOC Case",
+   "options": "EOC Case"
+  },
+  {
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "label": "Incident Report",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "dana_assessment",
+   "fieldtype": "Link",
+   "label": "DANA Assessment",
+   "options": "DANA Assessment"
+  },
+  {
+   "fieldname": "programme_activity",
+   "fieldtype": "Link",
+   "label": "Programme Activity",
+   "options": "Programme Activity"
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "label": "Project",
+   "options": "Project"
+  },
+  {
+   "fieldname": "donor",
+   "fieldtype": "Link",
+   "label": "Donor",
+   "options": "Donors"
+  },
+  {
+   "fieldname": "hazard_type",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Hazard Type",
+   "options": "Flood\nConflict\nEarthquake\nLandslide\nEpidemic\nFire\nCyclone\nDrought\nOther",
+   "reqd": 1
+  },
+  {
+   "default": "3",
+   "fieldname": "likelihood",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Likelihood (1-5)",
+   "options": "1\n2\n3\n4\n5",
+   "reqd": 1
+  },
+  {
+   "default": "3",
+   "fieldname": "impact",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Impact (1-5)",
+   "options": "1\n2\n3\n4\n5",
+   "reqd": 1
+  },
+  {
+   "fieldname": "risk_score",
+   "fieldtype": "Int",
+   "label": "Risk Score",
+   "read_only": 1
+  },
+  {
+   "fieldname": "risk_level",
+   "fieldtype": "Select",
+   "label": "Risk Level",
+   "options": "Low\nMedium\nHigh\nCritical",
+   "read_only": 1
+  },
+  {
+   "default": "Active",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Draft\nActive\nMonitoring\nClosed"
+  },
+  {
+   "fieldname": "reported_on",
+   "fieldtype": "Datetime",
+   "label": "Reported On"
+  },
+  {
+   "fieldname": "review_due",
+   "fieldtype": "Date",
+   "label": "Next Review Due"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "latitude",
+   "fieldtype": "Float",
+   "label": "Latitude (Center)"
+  },
+  {
+   "fieldname": "longitude",
+   "fieldtype": "Float",
+   "label": "Longitude (Center)"
+  },
+  {
+   "fieldname": "map_image",
+   "fieldtype": "Attach",
+   "label": "Map Snapshot (optional)"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "label": "Description"
+  },
+  {
+   "fieldname": "vulnerable_groups",
+   "fieldtype": "Small Text",
+   "label": "Vulnerable Groups (text)"
+  },
+  {
+   "fieldname": "hazard_zones",
+   "fieldtype": "Table",
+   "label": "Hazard Zones",
+   "options": "Risk Hazard Zone"
+  },
+  {
+   "fieldname": "mitigations",
+   "fieldtype": "Table",
+   "label": "Mitigation Actions",
+   "options": "Risk Mitigation Action"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-10 09:58:30.324077",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Risk Mapping",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "title"
+}

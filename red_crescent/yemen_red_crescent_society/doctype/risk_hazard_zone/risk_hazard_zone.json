@@ -1,0 +1,67 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-10 09:32:40.751354",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "zone_name",
+  "hazard_type",
+  "latitude",
+  "longitude",
+  "geometry_wkt",
+  "notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "zone_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Zone Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "hazard_type",
+   "fieldtype": "Select",
+   "label": "Hazard Type",
+   "options": "Flood\nConflict\nEarthquake\nLandslide\nEpidemic\nFire\nCyclone\nDrought\nOther"
+  },
+  {
+   "fieldname": "latitude",
+   "fieldtype": "Float",
+   "label": "Latitude"
+  },
+  {
+   "fieldname": "longitude",
+   "fieldtype": "Float",
+   "label": "Longitude"
+  },
+  {
+   "description": "Polygon/Line/Point in WKT (\u0627\u062e\u062a\u064a\u0627\u0631\u064a)",
+   "fieldname": "geometry_wkt",
+   "fieldtype": "Small Text",
+   "label": "Geometry (WKT)"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-10 09:32:40.751354",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Risk Hazard Zone",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

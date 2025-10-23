@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 19:40:47.735577",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "action_date",
+  "action_by",
+  "action_detail",
+  "evidence",
+  "status_after"
+ ],
+ "fields": [
+  {
+   "fieldname": "action_date",
+   "fieldtype": "Datetime",
+   "label": "Action Date"
+  },
+  {
+   "fieldname": "action_by",
+   "fieldtype": "Data",
+   "label": "Action By"
+  },
+  {
+   "fieldname": "action_detail",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Action Detail",
+   "reqd": 1
+  },
+  {
+   "fieldname": "evidence",
+   "fieldtype": "Attach",
+   "label": "Evidence / File"
+  },
+  {
+   "fieldname": "status_after",
+   "fieldtype": "Select",
+   "label": "Status After",
+   "options": "New\nUnder Review\nIn Progress\nResolved\nClosed\nRejected"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 19:40:47.735577",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "CFM Action Line",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

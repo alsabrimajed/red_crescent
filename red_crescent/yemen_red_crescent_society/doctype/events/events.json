@@ -1,0 +1,220 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format:{generate_name}-{start_date}-{###}",
+ "creation": "2025-08-08 21:31:04.762930",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "event_details_section",
+  "incident_report",
+  "generate_name",
+  "incident_type",
+  "incident_desc",
+  "event_name",
+  "link_type",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "location",
+  "start_date",
+  "end_date",
+  "closed",
+  "event_desc",
+  "event_volunteer",
+  "teams_involved",
+  "photos",
+  "documents",
+  "event_docs",
+  "event_photos",
+  "add_event_photos_section",
+  "event_photo",
+  "impacts_tab",
+  "impact_section",
+  "impacts"
+ ],
+ "fields": [
+  {
+   "fieldname": "event_details_section",
+   "fieldtype": "Section Break",
+   "label": "Event Details"
+  },
+  {
+   "columns": 2,
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "label": "Incident Report",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "generate_name",
+   "fieldtype": "Data",
+   "label": "Generate Name"
+  },
+  {
+   "fieldname": "incident_type",
+   "fieldtype": "Link",
+   "label": "Incident Type",
+   "options": "Incident Types"
+  },
+  {
+   "fieldname": "incident_desc",
+   "fieldtype": "Small Text",
+   "label": "Incident Description"
+  },
+  {
+   "fieldname": "event_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Event Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "link_type",
+   "fieldtype": "Link",
+   "label": "Event Type",
+   "options": "Event Types"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "location",
+   "fieldtype": "Data",
+   "label": "Location"
+  },
+  {
+   "fieldname": "start_date",
+   "fieldtype": "Date",
+   "label": "Start Date"
+  },
+  {
+   "fieldname": "end_date",
+   "fieldtype": "Date",
+   "label": "End Date"
+  },
+  {
+   "default": "0",
+   "fieldname": "closed",
+   "fieldtype": "Check",
+   "label": "Closed"
+  },
+  {
+   "fieldname": "event_desc",
+   "fieldtype": "Small Text",
+   "label": "Description"
+  },
+  {
+   "fieldname": "event_volunteer",
+   "fieldtype": "Table",
+   "label": "Event Volunteer",
+   "options": "Event Volunteer"
+  },
+  {
+   "fieldname": "teams_involved",
+   "fieldtype": "Table",
+   "label": "Teams Involved",
+   "options": "Event Teams"
+  },
+  {
+   "fieldname": "photos",
+   "fieldtype": "Table",
+   "label": "Photos",
+   "options": "Event Photos"
+  },
+  {
+   "fieldname": "documents",
+   "fieldtype": "Tab Break",
+   "label": "Documents"
+  },
+  {
+   "fieldname": "event_docs",
+   "fieldtype": "Table",
+   "label": "Documents",
+   "options": "Event Documents"
+  },
+  {
+   "fieldname": "event_photos",
+   "fieldtype": "Tab Break",
+   "label": "Photos"
+  },
+  {
+   "fieldname": "add_event_photos_section",
+   "fieldtype": "Section Break",
+   "label": "Add Event Photos"
+  },
+  {
+   "fieldname": "event_photo",
+   "fieldtype": "Table",
+   "label": "Event Photo",
+   "options": "Event Photos"
+  },
+  {
+   "fieldname": "impacts_tab",
+   "fieldtype": "Tab Break",
+   "label": "Impacts"
+  },
+  {
+   "fieldname": "impact_section",
+   "fieldtype": "Section Break",
+   "label": "Impact"
+  },
+  {
+   "fieldname": "impacts",
+   "fieldtype": "Table",
+   "label": "Add Impact",
+   "options": "Event Impacts"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:04.904962",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Events",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

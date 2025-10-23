@@ -1,0 +1,227 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:ESA-{YYYY}-{#####}",
+ "creation": "2025-08-10 13:55:49.396458",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "assignment_title",
+  "incident_report",
+  "cccm_site",
+  "beneficiary",
+  "resource_request",
+  "deployment",
+  "programme_activity",
+  "project",
+  "donor",
+  "assignment_status",
+  "shelter_type",
+  "shelter_id",
+  "capacity",
+  "check_in",
+  "expected_checkout",
+  "actual_checkout",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "site_address",
+  "gps_lat",
+  "gps_lng",
+  "head_of_household",
+  "household_size",
+  "occupants",
+  "notes",
+  "attachments"
+ ],
+ "fields": [
+  {
+   "fieldname": "assignment_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Assignment Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "label": "Incident Report",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "cccm_site",
+   "fieldtype": "Link",
+   "label": "CCCM Site",
+   "options": "CCCM Site"
+  },
+  {
+   "fieldname": "beneficiary",
+   "fieldtype": "Link",
+   "label": "Head Beneficiary",
+   "options": "Beneficiary"
+  },
+  {
+   "fieldname": "resource_request",
+   "fieldtype": "Link",
+   "label": "Resource Request",
+   "options": "Resource Request"
+  },
+  {
+   "fieldname": "deployment",
+   "fieldtype": "Link",
+   "label": "Deployment",
+   "options": "Deployment"
+  },
+  {
+   "fieldname": "programme_activity",
+   "fieldtype": "Link",
+   "label": "Programme Activity",
+   "options": "Programme Activity"
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "label": "Project",
+   "options": "Project"
+  },
+  {
+   "fieldname": "donor",
+   "fieldtype": "Link",
+   "label": "Donor",
+   "options": "Donors"
+  },
+  {
+   "default": "Active",
+   "fieldname": "assignment_status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Planned\nActive\nCompleted\nCancelled"
+  },
+  {
+   "fieldname": "shelter_type",
+   "fieldtype": "Select",
+   "label": "Shelter Type",
+   "options": "Tent\nRub Hall\nCollective Room\nRental Support\nHost Family\nOther"
+  },
+  {
+   "fieldname": "shelter_id",
+   "fieldtype": "Data",
+   "label": "Shelter/Tent ID"
+  },
+  {
+   "fieldname": "capacity",
+   "fieldtype": "Int",
+   "label": "Capacity (Persons)"
+  },
+  {
+   "fieldname": "check_in",
+   "fieldtype": "Date",
+   "label": "Check-in Date"
+  },
+  {
+   "fieldname": "expected_checkout",
+   "fieldtype": "Date",
+   "label": "Expected Check-out"
+  },
+  {
+   "fieldname": "actual_checkout",
+   "fieldtype": "Date",
+   "label": "Actual Check-out"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "site_address",
+   "fieldtype": "Data",
+   "label": "Site Address / Landmark"
+  },
+  {
+   "fieldname": "gps_lat",
+   "fieldtype": "Float",
+   "label": "Latitude"
+  },
+  {
+   "fieldname": "gps_lng",
+   "fieldtype": "Float",
+   "label": "Longitude"
+  },
+  {
+   "fieldname": "head_of_household",
+   "fieldtype": "Data",
+   "label": "Head of Household (text)"
+  },
+  {
+   "fieldname": "household_size",
+   "fieldtype": "Int",
+   "label": "Household Size"
+  },
+  {
+   "fieldname": "occupants",
+   "fieldtype": "Table",
+   "label": "Occupants",
+   "options": "Shelter Occupant Line"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  },
+  {
+   "fieldname": "attachments",
+   "fieldtype": "Attach",
+   "label": "Attachments"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-10 13:55:49.396458",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Emergency Shelter Assignment",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "assignment_title"
+}

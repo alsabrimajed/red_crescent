@@ -1,0 +1,77 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "creation": "2025-08-08 21:31:07.792852",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "add_team",
+  "team_name",
+  "team_description",
+  "ns_branch",
+  "comments",
+  "yrcs_branch"
+ ],
+ "fields": [
+  {
+   "fieldname": "add_team",
+   "fieldtype": "Column Break",
+   "label": "Add Team"
+  },
+  {
+   "fieldname": "team_name",
+   "fieldtype": "Data",
+   "label": "Team Name"
+  },
+  {
+   "fieldname": "team_description",
+   "fieldtype": "Data",
+   "label": "Team Description"
+  },
+  {
+   "fieldname": "ns_branch",
+   "fieldtype": "Link",
+   "label": "YRCS Branch",
+   "options": "National Society"
+  },
+  {
+   "fieldname": "comments",
+   "fieldtype": "Small Text",
+   "label": "Comments"
+  },
+  {
+   "fieldname": "yrcs_branch",
+   "fieldtype": "Link",
+   "label": "Branch",
+   "options": "NS Branch"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:07.930830",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Teams",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

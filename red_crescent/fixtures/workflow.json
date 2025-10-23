@@ -1,0 +1,21 @@
+[
+  {
+    "doctype": "Workflow",
+    "name": "Activity Approval Workflow",
+    "workflow_name": "Activity Approval Workflow",
+    "document_type": "Activity",
+    "is_active": 1,
+    "workflow_state_field": "status",
+    "states": [
+      { "state": "Draft",            "doc_status": 0, "allow_edit": "Administrator" },
+      { "state": "Pending Approval", "doc_status": 0, "allow_edit": "Administrator" },
+      { "state": "Approved",         "doc_status": 1, "allow_edit": "Administrator" },
+      { "state": "Rejected",         "doc_status": 0, "allow_edit": "Administrator" }
+    ],
+    "transitions": [
+      { "state": "Draft",            "action": "Review",  "next_state": "Pending Approval", "allowed": "Administrator" },
+      { "state": "Pending Approval", "action": "Approve", "next_state": "Approved",         "allowed": "Administrator" },
+      { "state": "Pending Approval", "action": "Reject",  "next_state": "Rejected",         "allowed": "Administrator" }
+    ]
+  }
+]

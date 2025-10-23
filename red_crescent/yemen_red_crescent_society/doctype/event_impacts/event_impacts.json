@@ -1,0 +1,93 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-08 21:31:05.681652",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "add_impact_section",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "date",
+  "impact_type",
+  "impact_value",
+  "accuracy",
+  "comments"
+ ],
+ "fields": [
+  {
+   "fieldname": "add_impact_section",
+   "fieldtype": "Section Break",
+   "label": "Add Impact"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village / Area",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "label": "Date"
+  },
+  {
+   "fieldname": "impact_type",
+   "fieldtype": "Link",
+   "label": "Impact Type",
+   "options": "Event Impacts"
+  },
+  {
+   "fieldname": "impact_value",
+   "fieldtype": "Float",
+   "label": "Value"
+  },
+  {
+   "fieldname": "accuracy",
+   "fieldtype": "Select",
+   "label": "Accuracy",
+   "options": "Official Measurement\nMeasurement\nOfficial Estimate\nEstimate\nOfficial Projection\nProjection"
+  },
+  {
+   "fieldname": "comments",
+   "fieldtype": "Small Text",
+   "label": "Comments"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:05.852464",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Event Impacts",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

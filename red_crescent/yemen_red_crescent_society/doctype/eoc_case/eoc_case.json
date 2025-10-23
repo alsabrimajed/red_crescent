@@ -1,0 +1,261 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:EOC-{YYYY}-{#####}",
+ "creation": "2025-08-09 19:41:27.242349",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "title",
+  "incident_report",
+  "beneficiary",
+  "resource_request",
+  "relief_team_deployment",
+  "deployment_log",
+  "dana_assessment",
+  "programme_activity",
+  "project",
+  "donor",
+  "status",
+  "severity",
+  "priority",
+  "channel",
+  "source_name",
+  "source_contact",
+  "received_on",
+  "sla_due",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "latitude",
+  "longitude",
+  "description",
+  "attachments",
+  "triage_actions",
+  "dispatch",
+  "eoc_shift",
+  "eoc_operator",
+  "close_code",
+  "closing_notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Case Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "label": "Incident Report",
+   "options": "Incident Reports"
+  },
+  {
+   "fieldname": "beneficiary",
+   "fieldtype": "Link",
+   "label": "Beneficiary",
+   "options": "Beneficiary"
+  },
+  {
+   "fieldname": "resource_request",
+   "fieldtype": "Link",
+   "label": "Resource Request",
+   "options": "Resource Request"
+  },
+  {
+   "fieldname": "relief_team_deployment",
+   "fieldtype": "Link",
+   "label": "Relief Team Deployment",
+   "options": "Relief Team Deployment"
+  },
+  {
+   "fieldname": "deployment_log",
+   "fieldtype": "Link",
+   "label": "Deployment Log",
+   "options": "Emergency Deployment Log"
+  },
+  {
+   "fieldname": "dana_assessment",
+   "fieldtype": "Link",
+   "label": "DANA Assessment",
+   "options": "DANA Assessment"
+  },
+  {
+   "fieldname": "programme_activity",
+   "fieldtype": "Link",
+   "label": "Programme Activity",
+   "options": "Programme Activity"
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "label": "Project",
+   "options": "Project"
+  },
+  {
+   "fieldname": "donor",
+   "fieldtype": "Link",
+   "label": "Donor",
+   "options": "Donors"
+  },
+  {
+   "default": "New",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "New\nUnder Triage\nDispatched\nMonitoring\nResolved\nClosed\nRejected"
+  },
+  {
+   "default": "3",
+   "fieldname": "severity",
+   "fieldtype": "Select",
+   "label": "Severity (1-5)",
+   "options": "1\n2\n3\n4\n5"
+  },
+  {
+   "default": "Medium",
+   "fieldname": "priority",
+   "fieldtype": "Select",
+   "label": "Priority",
+   "options": "Low\nMedium\nHigh\nCritical"
+  },
+  {
+   "fieldname": "channel",
+   "fieldtype": "Select",
+   "label": "Channel",
+   "options": "Hotline\nWhatsApp\nEmail\nRadio\nIn-person\nBranch Report\nExternal Partner\nOther"
+  },
+  {
+   "fieldname": "source_name",
+   "fieldtype": "Data",
+   "label": "Source Name / Caller"
+  },
+  {
+   "fieldname": "source_contact",
+   "fieldtype": "Data",
+   "label": "Source Contact"
+  },
+  {
+   "fieldname": "received_on",
+   "fieldtype": "Datetime",
+   "label": "Received On"
+  },
+  {
+   "fieldname": "sla_due",
+   "fieldtype": "Datetime",
+   "label": "SLA Due"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "latitude",
+   "fieldtype": "Float",
+   "label": "Latitude"
+  },
+  {
+   "fieldname": "longitude",
+   "fieldtype": "Float",
+   "label": "Longitude"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Description",
+   "reqd": 1
+  },
+  {
+   "fieldname": "attachments",
+   "fieldtype": "Attach",
+   "label": "Attachments"
+  },
+  {
+   "fieldname": "triage_actions",
+   "fieldtype": "Table",
+   "label": "Triage Actions",
+   "options": "EOC Triage Action"
+  },
+  {
+   "fieldname": "dispatch",
+   "fieldtype": "Table",
+   "label": "Dispatch Assignments",
+   "options": "EOC Dispatch Assignment"
+  },
+  {
+   "fieldname": "eoc_shift",
+   "fieldtype": "Select",
+   "label": "EOC Shift",
+   "options": "Day\nNight\n24/7"
+  },
+  {
+   "fieldname": "eoc_operator",
+   "fieldtype": "Data",
+   "label": "EOC Operator"
+  },
+  {
+   "fieldname": "close_code",
+   "fieldtype": "Select",
+   "label": "Close Code",
+   "options": "Resolved\nDuplicate\nOut of Scope\nInsufficient Info\nReferred"
+  },
+  {
+   "fieldname": "closing_notes",
+   "fieldtype": "Small Text",
+   "label": "Closing Notes"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-09 19:41:27.242349",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "EOC Case",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "title"
+}

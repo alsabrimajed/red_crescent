@@ -1,0 +1,176 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-08 21:31:06.119307",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "public_info",
+  "ns_country_name",
+  "country_name",
+  "society_name",
+  "date_established",
+  "auxiliary_role_recognized",
+  "legal_status",
+  "strategic_plan_url",
+  "fdrs_url",
+  "website",
+  "president_name",
+  "secretary_general_name",
+  "statutes_updated_date",
+  "branches_count",
+  "local_units_count",
+  "volunteers_count",
+  "paid_staff_count",
+  "hq_location",
+  "map_attachment",
+  "branches_tab",
+  "branche",
+  "branches"
+ ],
+ "fields": [
+  {
+   "fieldname": "public_info",
+   "fieldtype": "Section Break",
+   "label": "Public Info"
+  },
+  {
+   "fieldname": "ns_country_name",
+   "fieldtype": "Autocomplete"
+  },
+  {
+   "fieldname": "country_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Country Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "society_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Full Name of National Society",
+   "reqd": 1
+  },
+  {
+   "fieldname": "date_established",
+   "fieldtype": "Date",
+   "label": "Date Established"
+  },
+  {
+   "default": "0",
+   "fieldname": "auxiliary_role_recognized",
+   "fieldtype": "Check",
+   "label": "Auxiliary Role Legally Recognized"
+  },
+  {
+   "fieldname": "legal_status",
+   "fieldtype": "Select",
+   "label": "Legal Status",
+   "options": "Statutory Body\n\\nNGO\n\\nCharitable Trust\n\\nOther"
+  },
+  {
+   "fieldname": "strategic_plan_url",
+   "fieldtype": "Data",
+   "label": "Strategic Plan URL"
+  },
+  {
+   "fieldname": "fdrs_url",
+   "fieldtype": "Data",
+   "label": "FDRS Profile Link"
+  },
+  {
+   "fieldname": "website",
+   "fieldtype": "Data",
+   "label": "Official Website"
+  },
+  {
+   "fieldname": "president_name",
+   "fieldtype": "Data",
+   "label": "President Name"
+  },
+  {
+   "fieldname": "secretary_general_name",
+   "fieldtype": "Data",
+   "label": "Secretary General"
+  },
+  {
+   "fieldname": "statutes_updated_date",
+   "fieldtype": "Date",
+   "label": "Statutes Last Revised"
+  },
+  {
+   "fieldname": "branches_count",
+   "fieldtype": "Int",
+   "label": "Number of Branches"
+  },
+  {
+   "fieldname": "local_units_count",
+   "fieldtype": "Int",
+   "label": "Number of Local Units"
+  },
+  {
+   "fieldname": "volunteers_count",
+   "fieldtype": "Int",
+   "label": "Number of Volunteers"
+  },
+  {
+   "fieldname": "paid_staff_count",
+   "fieldtype": "Int",
+   "label": "Number of Paid Staff"
+  },
+  {
+   "fieldname": "hq_location",
+   "fieldtype": "Data",
+   "label": "Headquarters Location"
+  },
+  {
+   "fieldname": "map_attachment",
+   "fieldtype": "Geolocation",
+   "label": "Country Map with Branches (Optional)"
+  },
+  {
+   "fieldname": "branches_tab",
+   "fieldtype": "Tab Break",
+   "label": "Branches"
+  },
+  {
+   "fieldname": "branche",
+   "fieldtype": "Section Break",
+   "label": "Branches"
+  },
+  {
+   "fieldname": "branches",
+   "fieldtype": "Table",
+   "label": "Branches",
+   "options": "NS Branch"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:06.267180",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "National Society",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

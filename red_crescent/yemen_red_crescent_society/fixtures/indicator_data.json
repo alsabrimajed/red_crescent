@@ -1,0 +1,13 @@
+[
+  {
+    "doctype": "indicator",
+	"indicator_name": "Skilled birth attendance rate",
+    "objective": "Reduce maternal mortality",
+    "baseline": 60,
+    "target": 90,
+    "actual": 81,
+    "unit": "%",
+    "frequency": "Quarterly",
+    "notes": "Measured via community health survey."
+  }
+]

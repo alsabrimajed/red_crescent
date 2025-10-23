@@ -1,0 +1,143 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format:{incident_type} {incident_date}",
+ "creation": "2025-08-08 21:31:10.307502",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "incident_reports_section",
+  "incident_date",
+  "short_desc",
+  "incident_type",
+  "reportedby",
+  "contact",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "place_location",
+  "place_of_incident",
+  "long_description",
+  "immediate_needs",
+  "closed",
+  "incident_comment"
+ ],
+ "fields": [
+  {
+   "fieldname": "incident_reports_section",
+   "fieldtype": "Section Break",
+   "label": "Incident Reports"
+  },
+  {
+   "fieldname": "incident_date",
+   "fieldtype": "Datetime",
+   "label": "Date"
+  },
+  {
+   "fieldname": "short_desc",
+   "fieldtype": "Small Text",
+   "label": "Short Description"
+  },
+  {
+   "fieldname": "incident_type",
+   "fieldtype": "Link",
+   "label": "Incident Type",
+   "options": "Incident Types"
+  },
+  {
+   "fieldname": "reportedby",
+   "fieldtype": "Small Text",
+   "label": "Reported By"
+  },
+  {
+   "fieldname": "contact",
+   "fieldtype": "Data",
+   "label": "Contact"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "place_location",
+   "fieldtype": "Geolocation",
+   "label": "Place"
+  },
+  {
+   "fieldname": "place_of_incident",
+   "fieldtype": "Data",
+   "label": "Place of Incident"
+  },
+  {
+   "fieldname": "long_description",
+   "fieldtype": "Small Text",
+   "label": "Long Description"
+  },
+  {
+   "fieldname": "immediate_needs",
+   "fieldtype": "Small Text",
+   "label": "Immediate Needs"
+  },
+  {
+   "default": "0",
+   "fieldname": "closed",
+   "fieldtype": "Check",
+   "label": "Closed"
+  },
+  {
+   "fieldname": "incident_comment",
+   "fieldtype": "Small Text",
+   "label": "Comment"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:10.423386",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Incident Reports",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,75 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-09 19:39:59.056946",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "snapshot_date",
+  "households_affected",
+  "individuals_affected",
+  "displaced_households",
+  "injured",
+  "fatalities",
+  "pwd",
+  "notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "snapshot_date",
+   "fieldtype": "Date",
+   "label": "Snapshot Date"
+  },
+  {
+   "fieldname": "households_affected",
+   "fieldtype": "Int",
+   "label": "HH Affected"
+  },
+  {
+   "fieldname": "individuals_affected",
+   "fieldtype": "Int",
+   "label": "Individuals Affected"
+  },
+  {
+   "fieldname": "displaced_households",
+   "fieldtype": "Int",
+   "label": "HH Displaced"
+  },
+  {
+   "fieldname": "injured",
+   "fieldtype": "Int",
+   "label": "Injured"
+  },
+  {
+   "fieldname": "fatalities",
+   "fieldtype": "Int",
+   "label": "Fatalities"
+  },
+  {
+   "fieldname": "pwd",
+   "fieldtype": "Int",
+   "label": "Persons with Disabilities"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-09 19:39:59.056946",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "DANA Population Snapshot",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

@@ -1,0 +1,27 @@
+
+{% set program = doc.program %}
+<h2 style="margin:0 0 4px 0">{{ doc.report_title }}</h2>
+<p><b>Program:</b> {{ program }}<br>
+<b>Submission Date:</b> {{ doc.submission_date }}<br>
+<b>Submitted By:</b> {{ doc.submitted_by }}</p>
+<hr>
+<h3>Narrative Report</h3>
+<div>{{ doc.narrative or "" }}</div>
+<hr>
+<h3>Indicators</h3>
+<table class="table table-bordered">
+<thead><tr><th>Indicator</th><th>Baseline</th><th>Target</th><th>Actual</th><th>Progress (%)</th><th>Status</th></tr></thead>
+<tbody>
+{% set objectives = frappe.get_all("Objective", filters={{"program": program}}, pluck="name") %}
+{% for ind in frappe.get_all("Indicator", filters={{"objective": ["in", objectives]}}, fields=["indicator_name","baseline","target","actual","progress_percent","status"]) %}
+<tr>
+<td>{{ ind.indicator_name }}</td>
+<td>{{ ind.baseline }}</td>
+<td>{{ ind.target }}</td>
+<td>{{ ind.actual }}</td>
+<td>{{ ind.progress_percent }}</td>
+<td>{{ ind.status }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>

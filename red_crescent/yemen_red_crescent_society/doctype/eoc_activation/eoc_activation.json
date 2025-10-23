@@ -1,0 +1,92 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:EOC-{YYYY}-{#####}",
+ "creation": "2025-08-09 00:43:28.344536",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "activation_title",
+  "incident_report",
+  "level",
+  "activated_on",
+  "deactivated_on",
+  "roles",
+  "log"
+ ],
+ "fields": [
+  {
+   "fieldname": "activation_title",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Activation Title",
+   "reqd": 1
+  },
+  {
+   "fieldname": "incident_report",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Incident Report",
+   "options": "Incident Reports",
+   "reqd": 1
+  },
+  {
+   "default": "Branch",
+   "fieldname": "level",
+   "fieldtype": "Select",
+   "label": "Activation Level",
+   "options": "Branch\nNational"
+  },
+  {
+   "fieldname": "activated_on",
+   "fieldtype": "Datetime",
+   "label": "Activated On"
+  },
+  {
+   "fieldname": "deactivated_on",
+   "fieldtype": "Datetime",
+   "label": "Deactivated On"
+  },
+  {
+   "fieldname": "roles",
+   "fieldtype": "Table",
+   "label": "EOC Roles",
+   "options": "EOC Role Line"
+  },
+  {
+   "fieldname": "log",
+   "fieldtype": "Table",
+   "label": "Action Log",
+   "options": "EOC Action Log"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-09 00:43:28.344536",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "EOC Activation",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "activation_title"
+}

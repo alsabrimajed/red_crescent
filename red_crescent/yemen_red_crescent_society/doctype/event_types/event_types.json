@@ -1,0 +1,59 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format:{event_type_name}",
+ "creation": "2025-08-08 21:31:10.142248",
+ "custom": 1,
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "event_types_section",
+  "event_type_name",
+  "event_type_comment"
+ ],
+ "fields": [
+  {
+   "fieldname": "event_types_section",
+   "fieldtype": "Section Break",
+   "label": " Event Types"
+  },
+  {
+   "fieldname": "event_type_name",
+   "fieldtype": "Data",
+   "label": " Event Type Name"
+  },
+  {
+   "fieldname": "event_type_comment",
+   "fieldtype": "Small Text",
+   "label": "Comment"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-08 21:31:10.267316",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Event Types",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

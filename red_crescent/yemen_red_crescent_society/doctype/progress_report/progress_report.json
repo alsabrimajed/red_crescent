@@ -1,0 +1,91 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-10 13:11:27.817368",
+ "custom": 1,
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "programme_plan",
+  "programme_activity",
+  "kpi",
+  "report_date",
+  "progress_summary",
+  "completion_percentage",
+  "status"
+ ],
+ "fields": [
+  {
+   "fieldname": "programme_plan",
+   "fieldtype": "Link",
+   "label": "Programme Plan",
+   "options": "Programme Plan"
+  },
+  {
+   "fieldname": "programme_activity",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Programme Activity",
+   "options": "Programme Activity",
+   "reqd": 1
+  },
+  {
+   "fieldname": "kpi",
+   "fieldtype": "Link",
+   "label": "KPI",
+   "options": "Programme KPI"
+  },
+  {
+   "fieldname": "report_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Report Date",
+   "reqd": 1
+  },
+  {
+   "fieldname": "progress_summary",
+   "fieldtype": "Text",
+   "in_list_view": 1,
+   "label": "Progress Summary",
+   "reqd": 1
+  },
+  {
+   "fieldname": "completion_percentage",
+   "fieldtype": "Percent",
+   "label": "Completion Percentage"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "On Track\nDelayed\nCompleted"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-10 13:11:27.928668",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Progress Report",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

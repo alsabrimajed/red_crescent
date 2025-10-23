@@ -1,0 +1,23 @@
+# red_crescent/api.py
+import frappe, requests
+
+@frappe.whitelist()
+def reverse_geocode(lat: float, lng: float) -> str:
+    try:
+        r = requests.get(
+            "https://nominatim.openstreetmap.org/reverse",
+            params={"format": "jsonv2", "lat": lat, "lon": lng, "addressdetails": 1},
+            headers={"User-Agent": "Frappe-ERPNext-Volunteer-Map/1.0"}
+        )
+        r.raise_for_status()
+        j = r.json()
+        display = j.get("display_name")
+        if display:
+            return display
+        a = j.get("address", {}) or {}
+        parts = [a.get("road"), a.get("suburb"),
+                 a.get("city") or a.get("town") or a.get("village"),
+                 a.get("state"), a.get("postcode"), a.get("country")]
+        return ", ".join([p for p in parts if p])
+    except Exception:
+        return f"{float(lat):.6f}, {float(lng):.6f}"

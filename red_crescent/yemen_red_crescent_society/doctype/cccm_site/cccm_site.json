@@ -1,0 +1,227 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "format:SITE-{YYYY}-{#####}",
+ "creation": "2025-08-18 11:23:50.205352",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "site_name",
+  "donor",
+  "partner",
+  "site_code",
+  "site_status",
+  "site_type",
+  "open_date",
+  "close_date",
+  "governorate",
+  "district",
+  "sub_district",
+  "village",
+  "latitude",
+  "longitude",
+  "managing_agency",
+  "site_focal_name",
+  "site_focal_phone",
+  "households",
+  "individuals",
+  "notes",
+  "attachments",
+  "services",
+  "population_snapshots",
+  "facilities",
+  "issues_referrals"
+ ],
+ "fields": [
+  {
+   "bold": 1,
+   "fieldname": "site_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Site Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "donor",
+   "fieldtype": "Link",
+   "label": "Donor",
+   "options": "Donors"
+  },
+  {
+   "fieldname": "partner",
+   "fieldtype": "Link",
+   "label": "Managing Partner",
+   "options": "Partners"
+  },
+  {
+   "fieldname": "site_code",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Site Code",
+   "unique": 1
+  },
+  {
+   "default": "Active",
+   "fieldname": "site_status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Site Status",
+   "options": "Active\nTemporarily Closed\nClosed"
+  },
+  {
+   "fieldname": "site_type",
+   "fieldtype": "Select",
+   "label": "Site Type",
+   "options": "Camp\nCollective Center\nSpontaneous Site\nTransit Site\nOther"
+  },
+  {
+   "fieldname": "open_date",
+   "fieldtype": "Date",
+   "label": "Opening Date"
+  },
+  {
+   "fieldname": "close_date",
+   "fieldtype": "Date",
+   "label": "Closure Date"
+  },
+  {
+   "fieldname": "governorate",
+   "fieldtype": "Link",
+   "label": "Governorate",
+   "options": "Governorate"
+  },
+  {
+   "fieldname": "district",
+   "fieldtype": "Link",
+   "label": "District",
+   "options": "Districts"
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Link",
+   "label": "Sub-District",
+   "options": "Sub-Districts"
+  },
+  {
+   "fieldname": "village",
+   "fieldtype": "Link",
+   "label": "Village",
+   "options": "Villages"
+  },
+  {
+   "fieldname": "latitude",
+   "fieldtype": "Float",
+   "label": "Latitude"
+  },
+  {
+   "fieldname": "longitude",
+   "fieldtype": "Float",
+   "label": "Longitude"
+  },
+  {
+   "fieldname": "managing_agency",
+   "fieldtype": "Link",
+   "label": "Managing Agency",
+   "options": "Partners"
+  },
+  {
+   "fieldname": "site_focal_name",
+   "fieldtype": "Data",
+   "label": "Site Focal Name"
+  },
+  {
+   "fieldname": "site_focal_phone",
+   "fieldtype": "Data",
+   "label": "Site Focal Phone",
+   "options": "Phone"
+  },
+  {
+   "fieldname": "households",
+   "fieldtype": "Int",
+   "label": "Households (current est.)"
+  },
+  {
+   "fieldname": "individuals",
+   "fieldtype": "Int",
+   "label": "Individuals (current est.)"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Small Text",
+   "label": "Notes"
+  },
+  {
+   "fieldname": "attachments",
+   "fieldtype": "Attach",
+   "label": "Attachments"
+  },
+  {
+   "fieldname": "services",
+   "fieldtype": "Table",
+   "label": "Services",
+   "options": "CCCM Service Line"
+  },
+  {
+   "fieldname": "population_snapshots",
+   "fieldtype": "Table",
+   "label": "Population Snapshots",
+   "options": "CCCM Population Snapshot"
+  },
+  {
+   "fieldname": "facilities",
+   "fieldtype": "Table",
+   "label": "Facilities",
+   "options": "CCCM Facility Line"
+  },
+  {
+   "fieldname": "issues_referrals",
+   "fieldtype": "Table",
+   "label": "Issues / Referrals",
+   "options": "CCCM Issue Referral Line"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-08-18 16:02:54.000212",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "CCCM Site",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "All",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "search_fields": "site_name,site_code,governorate,district",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "site_name",
+ "track_changes": 1
+}

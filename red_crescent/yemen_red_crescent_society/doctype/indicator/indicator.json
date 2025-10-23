@@ -1,0 +1,66 @@
+{
+  "doctype": "DocType",
+  "name": "Indicator",
+  "module": "Yemen Red Crescent Society",
+  "custom": 1,
+  "fields": [
+    {
+      "fieldname": "indicator_name",
+      "fieldtype": "Data",
+      "label": "Indicator Name",
+      "reqd": 1
+    },
+    {
+      "fieldname": "objective",
+      "fieldtype": "Link",
+      "label": "Objective",
+      "options": "Objective",
+      "reqd": 1
+    },
+    {
+      "fieldname": "baseline",
+      "fieldtype": "Float",
+      "label": "Baseline Value"
+    },
+    {
+      "fieldname": "target",
+      "fieldtype": "Float",
+      "label": "Target Value"
+    },
+    {
+      "fieldname": "actual",
+      "fieldtype": "Float",
+      "label": "Actual Value"
+    },
+    {
+      "fieldname": "unit",
+      "fieldtype": "Data",
+      "label": "Unit"
+    },
+    {
+      "fieldname": "frequency",
+      "fieldtype": "Select",
+      "label": "Frequency",
+      "options": "Monthly\nQuarterly\nAnnually"
+    },
+    {
+      "fieldname": "progress_percent",
+      "fieldtype": "Float",
+      "label": "Progress (%)",
+      "read_only": 1
+    },
+    {
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "label": "Status",
+      "options": "Green\nYellow\nRed",
+      "read_only": 1
+    },
+    {
+      "fieldname": "notes",
+      "fieldtype": "Text",
+      "label": "Notes"
+    }
+  ],
+  "editable_grid": 0
+}

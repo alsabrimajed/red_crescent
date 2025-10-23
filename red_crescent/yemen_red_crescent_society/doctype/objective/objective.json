@@ -1,0 +1,27 @@
+{
+  "doctype": "DocType",
+  "name": "Objective",
+  "module": "Yemen Red Crescent Society",
+  "custom": 1,
+  "fields": [
+    {
+      "fieldname": "objective_name",
+      "fieldtype": "Data",
+      "label": "Objective Name",
+      "reqd": 1
+    },
+    {
+      "fieldname": "program",
+      "fieldtype": "Link",
+      "label": "Program",
+      "options": "Program",
+      "reqd": 1
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Text",
+      "label": "Description"
+    }
+  ],
+  "editable_grid": 0
+}

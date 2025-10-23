@@ -1,0 +1,47 @@
+{
+  "doctype": "DocType",
+  "name": "Field Visit Log",
+  "module": "Yemen Red Crescent Society",
+  "custom": 1,
+  "fields": [
+    {
+      "fieldname": "visit_date",
+      "fieldtype": "Date",
+      "label": "Visit Date",
+      "reqd": 1
+    },
+    {
+      "fieldname": "location",
+      "fieldtype": "Data",
+      "label": "Location"
+    },
+    {
+      "fieldname": "team_members",
+      "fieldtype": "Small Text",
+      "label": "Team Members"
+    },
+    {
+      "fieldname": "program",
+      "fieldtype": "Link",
+      "label": "Program",
+      "options": "Program"
+    },
+    {
+      "fieldname": "activity",
+      "fieldtype": "Link",
+      "label": "Activity",
+      "options": "Activity"
+    },
+    {
+      "fieldname": "observations",
+      "fieldtype": "Text Editor",
+      "label": "Observations"
+    },
+    {
+      "fieldname": "attachments",
+      "fieldtype": "Attach",
+      "label": "Attachments"
+    }
+  ],
+  "editable_grid": 0
+}

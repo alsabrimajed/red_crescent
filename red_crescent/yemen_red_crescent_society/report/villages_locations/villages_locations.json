@@ -1,0 +1,60 @@
+{
+ "add_total_row": 0,
+ "add_translate_data": 0,
+ "columns": [
+  {
+   "fieldname": "district",
+   "fieldtype": "Data",
+   "label": "District",
+   "width": 0
+  }
+ ],
+ "creation": "2025-08-14 00:40:30.479472",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [
+  {
+   "fieldname": "district",
+   "fieldtype": "Data",
+   "label": "district ",
+   "mandatory": 0,
+   "wildcard_filter": 0
+  },
+  {
+   "fieldname": "sub_district",
+   "fieldtype": "Data",
+   "label": "sub_district ",
+   "mandatory": 0,
+   "wildcard_filter": 0
+  },
+  {
+   "default": "1",
+   "fieldname": "only_with_coords",
+   "fieldtype": "Check",
+   "label": "only_with_coords",
+   "mandatory": 0,
+   "wildcard_filter": 0
+  }
+ ],
+ "idx": 0,
+ "is_standard": "Yes",
+ "javascript": "frappe.query_reports[\"Villages Locations\"] = {\n  filters: [\n    { fieldname: \"district\", label: \"District\", fieldtype: \"Data\" },\n    { fieldname: \"sub_district\", label: \"Sub-district\", fieldtype: \"Data\" },\n    { fieldname: \"only_with_coords\", label: \"Only with Coordinates\", fieldtype: \"Check\", default: 1 },\n  ],\n  onload(report) {\n    if (!report.page.map_area) {\n      const $map = $('<div id=\"villages-map\" style=\"height:520px;margin-bottom:12px;border:1px solid #e5e5e5;border-radius:8px;\"></div>');\n      $(report.page.main).prepend($map);\n      report.page.map_area = $map.get(0);\n    }\n    report.on('afterRefresh', () => {\n      try { drawVillagesMap(report); } catch (e) { console.error('Map error', e); }\n    });\n  }\n};\n\nfunction drawVillagesMap(report) {\n  const msg = report.message || {};\n  const points = msg.points || [];\n  const div = document.getElementById('villages-map');\n  if (!div) return;\n\n  if (window.__villagesMap && window.__villagesMap.remove) window.__villagesMap.remove();\n  if (typeof L === 'undefined') { frappe.show_alert({message: __(\"Leaflet not available\"), indicator:'red'}); return; }\n\n  const map = L.map(div, { zoomControl: true });\n  window.__villagesMap = map;\n\n  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n    maxZoom: 19, attribution: '&copy; OpenStreetMap'\n  }).addTo(map);\n\n  const bounds = [];\n  points.forEach(p => {\n    if (!isFinite(p.lat) || !isFinite(p.lng)) return;\n    const m = L.marker([p.lat, p.lng]).addTo(map);\n    if (p.popup) m.bindPopup(p.popup);\n    bounds.push([p.lat, p.lng]);\n  });\n\n  if (bounds.length) map.fitBounds(bounds, { padding: [20,20] });\n  else map.setView([15.3694, 44.1910], 6);\n}\n",
+ "letterhead": null,
+ "modified": "2025-08-14 00:55:45.906967",
+ "modified_by": "Administrator",
+ "module": "Yemen Red Crescent Society",
+ "name": "Villages Locations",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Villages",
+ "report_name": "Villages Locations",
+ "report_script": "def execute(filters=None):\n    columns = [\n        {\"label\": \"Village\",      \"fieldname\": \"villagenameen\", \"fieldtype\": \"Data\",  \"width\": 220},\n        {\"label\": \"Sub-district\", \"fieldname\": \"sub_district\",  \"fieldtype\": \"Data\",  \"width\": 160},\n        {\"label\": \"District\",     \"fieldname\": \"district\",      \"fieldtype\": \"Data\",  \"width\": 160},\n        {\"label\": \"Latitude\",     \"fieldname\": \"latitude\",      \"fieldtype\": \"Float\", \"width\": 110, \"precision\": 6},\n        {\"label\": \"Longitude\",    \"fieldname\": \"longitude\",     \"fieldtype\": \"Float\", \"width\": 110, \"precision\": 6},\n    ]\n\n    f = filters or {}\n    cond = \"1=1\"\n    args = {}\n\n    if f.get(\"district\"):\n        cond += \" AND v.district = %(district)s\"\n        args[\"district\"] = f[\"district\"]\n\n    if f.get(\"sub_district\"):\n        cond += \" AND v.sub_district = %(sub_district)s\"\n        args[\"sub_district\"] = f[\"sub_district\"]\n\n    if f.get(\"only_with_coords\"):\n        cond += \" AND v.latitude IS NOT NULL AND v.longitude IS NOT NULL\"\n\n    data = frappe.db.sql(f\"\"\"\n        SELECT\n          v.villagenameen, v.sub_district, v.district,\n          v.latitude, v.longitude, v.location\n        FROM `tabVillages` v\n        WHERE {cond}\n        ORDER BY v.district, v.sub_district, v.villagenameen\n        LIMIT 10000\n    \"\"\", args, as_dict=True)\n\n    # \u0646\u0642\u0627\u0637 \u0627\u0644\u062e\u0631\u064a\u0637\u0629 (\u0623\u0648\u0644\u0648\u064a\u0629 \u0644\u0640 lat/lng \u062b\u0645 fallback \u0645\u0646 GeoJSON \u0628\u0640 field: location)\n    points = []\n    for r in data:\n        lat = r.get(\"latitude\")\n        lng = r.get(\"longitude\")\n        if not (lat and lng):\n            g_lat, g_lng = latlng_from_geo(r.get(\"location\"))\n            lat, lng = g_lat, g_lng\n        if lat and lng:\n            points.append({\n                \"lat\": float(lat),\n                \"lng\": float(lng),\n                \"title\": r.get(\"villagenameen\"),\n                \"popup\": popup_html(r, lat, lng),\n            })\n\n    message = {\"points\": points}\n    return columns, data, None, message\n\n\n# ---------- helpers ----------\ndef tofloat(x):\n    try:\n        return float(x)\n    except Exception:\n        return None\n\ndef latlng_from_geo(val):\n    if not val:\n        return (None, None)\n    try:\n        j = frappe.parse_json(val) if isinstance(val, str) else val\n        t = j.get(\"type\")\n        if t == \"FeatureCollection\" and j.get(\"features\"):\n            g = (j[\"features\"][0] or {}).get(\"geometry\") or {}\n            if g.get(\"type\") == \"Point\":\n                c = g.get(\"coordinates\") or []\n                return tofloat(c[1]), tofloat(c[0])\n        if t == \"Feature\":\n            g = j.get(\"geometry\") or {}\n            if g.get(\"type\") == \"Point\":\n                c = g.get(\"coordinates\") or []\n                return tofloat(c[1]), tofloat(c[0])\n        if t == \"Point\":\n            c = j.get(\"coordinates\") or []\n            return tofloat(c[1]), tofloat(c[0])\n    except Exception:\n        pass\n    return (None, None)\n\ndef popup_html(r, lat, lng):\n    name = frappe.utils.escape_html(r.get(\"villagenameen\") or \"\")\n    sd   = frappe.utils.escape_html(r.get(\"sub_district\") or \"\")\n    d    = frappe.utils.escape_html(r.get(\"district\") or \"\")\n    lines = [f\"<b>{name}</b>\"]\n    loc = \", \".join([x for x in [sd, d] if x])\n    if loc:\n        lines.append(f\"<div>{loc}</div>\")\n    lines.append(f\"<div style='margin-top:4px;font-size:11px;color:#888'>{float(lat):.6f}, {float(lng):.6f}</div>\")\n    return \"<div>\" + \"\".join(lines) + \"</div>\"\n",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "timeout": 0
+}
