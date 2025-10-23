@@ -5,6 +5,7 @@ app_description = "Yemen Red Crescent Society Management System"
 app_email = "alsabri-majed@yemenredcrescent.org"
 app_license = "mit"
 app_include_js = "/assets/red_crescent/js/volunteer_map.js"
+fixtures = ["Custom Field", "Property Setter", "Client Script"]
 
 fixtures = [
     {"doctype": "DocType", "filters": [["module", "=", "Yemen Red Crescent Society"]]},
